@@ -1,0 +1,5862 @@
+{
+ "cases & covers > basic cases": {
+  "heading": "3926",
+  "rules": [
+   {
+    "words": [
+     "leather",
+     "pu leather",
+     "faux leather"
+    ],
+    "heading": "4202"
+   }
+  ],
+  "uncertain": false,
+  "note": "plastic/silicone default; leather 4202",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Cases & Covers > Basic Cases",
+  "rows": 125
+ },
+ "action & toy figures > toy figures": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Action & Toy Figures > Toy Figures",
+  "rows": 99
+ },
+ "shampoo & conditioner > shampoos": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Shampoo & Conditioner > Shampoos",
+  "rows": 75
+ },
+ "cases & sleeves > cases": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Tablet Accessories > Bags > Cases & Sleeves > Cases",
+  "rows": 64
+ },
+ "cable assemblies > usb cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Industrial Electrical > Wiring & Connecting > Cable Assemblies > USB Cables",
+  "rows": 63
+ },
+ "tabletop games > board games": {
+  "heading": "9504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Games > Tabletop Games > Board Games",
+  "rows": 60
+ },
+ "electronics > tablets": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Tablets",
+  "rows": 59
+ },
+ "headphones > in-ear": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Headphones, Earbuds & Accessories > Headphones > In-Ear",
+  "rows": 59
+ },
+ "creams & moisturisers > moisturizers": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Face > Creams & Moisturisers > Moisturizers",
+  "rows": 53
+ },
+ "ethnic wear > kurtas & kurtis": {
+  "heading": "6204",
+  "rules": [
+   {
+    "words": [
+     "knitted",
+     "jersey",
+     "cotton knit"
+    ],
+    "heading": "6104"
+   }
+  ],
+  "uncertain": true,
+  "note": "knitted vs woven decides 61/62",
+  "example": "Fashion > Women > Clothing > Ethnic Wear > Kurtas & Kurtis",
+  "rows": 53
+ },
+ "baby toys > baby balls": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Baby & Toddler Toys > Baby Toys > Baby Balls",
+  "rows": 51
+ },
+ "smart watches & accessories > replacement bands": {
+  "heading": "9113",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Wearable Technology > Smart Watches & Accessories > Replacement Bands",
+  "rows": 49
+ },
+ "accessories > remote controls": {
+  "heading": "8543",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > Remote Controls",
+  "rows": 46
+ },
+ "cleansing creams & milks > face wash": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Face > Cleansing Creams & Milks > Face Wash",
+  "rows": 46
+ },
+ "pens & refills > fountain pens": {
+  "heading": "9608",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > School & Educational Supplies > Pens, Pencils & Writing Supplies > Pens & Refills > Fountain Pens",
+  "rows": 42
+ },
+ "household cleaners > metal polish": {
+  "heading": "3405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Household Cleaners > Metal Polish",
+  "rows": 41
+ },
+ "kitchen storage & containers > water bottles": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   },
+   {
+    "words": [
+     "glass"
+    ],
+    "heading": "7013"
+   },
+   {
+    "words": [
+     "copper"
+    ],
+    "heading": "7418"
+   },
+   {
+    "words": [
+     "vacuum",
+     "thermos",
+     "insulated flask"
+    ],
+    "heading": "9617"
+   }
+  ],
+  "uncertain": false,
+  "note": "material decides",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Water Bottles",
+  "rows": 40
+ },
+ "men > running shoes": {
+  "heading": "6404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Running > Footwear > Men > Running Shoes",
+  "rows": 39
+ },
+ "creams & moisturisers > face creams": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Face > Creams & Moisturisers > Face Creams",
+  "rows": 38
+ },
+ "accessories > belts": {
+  "heading": "4203",
+  "rules": [
+   {
+    "words": [
+     "canvas",
+     "fabric",
+     "nylon",
+     "webbing",
+     "elastic"
+    ],
+    "heading": "6217"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Men > Clothing > Accessories > Belts",
+  "rows": 38
+ },
+ "feeding > sippy cups": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Feeding > Sippy Cups",
+  "rows": 37
+ },
+ "lips > lipsticks": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Make-up > Lips > Lipsticks",
+  "rows": 37
+ },
+ "shampoo & conditioner > conditioners": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Shampoo & Conditioner > Conditioners",
+  "rows": 36
+ },
+ "laundry > stain removers": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Laundry > Stain Removers",
+  "rows": 36
+ },
+ "creams & moisturisers > serums": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Face > Creams & Moisturisers > Serums",
+  "rows": 35
+ },
+ "oral care > toothpastes": {
+  "heading": "3306",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Oral Care > Toothpastes",
+  "rows": 34
+ },
+ "cleansers > body wash gels": {
+  "heading": "3401",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Body > Body & Bath > Cleansers > Body Wash Gels",
+  "rows": 34
+ },
+ "nails > nail polish": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Manicure & Pedicure > Nails > Nail Polish",
+  "rows": 33
+ },
+ "men > wrist watches": {
+  "heading": "9102",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Watches > Men > Wrist Watches",
+  "rows": 32
+ },
+ "insulated drinks containers > bottles": {
+  "heading": "9617",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Thermos & Vacuum Flasks > Insulated Drinks Containers > Bottles",
+  "rows": 31
+ },
+ "kitchen storage & containers > jars & containers": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   },
+   {
+    "words": [
+     "glass"
+    ],
+    "heading": "7010"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Jars & Containers",
+  "rows": 31
+ },
+ "mobile accessories > stylus pens": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": true,
+  "note": "stylus pen: 8471 vs 9608 - CA to confirm",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Stylus Pens",
+  "rows": 30
+ },
+ "sunglasses & spectacle frames > sunglasses": {
+  "heading": "9004",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Sunglasses & Spectacle Frames > Sunglasses",
+  "rows": 21
+ },
+ "headphones, earbuds & accessories > cases": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Headphones, Earbuds & Accessories > Cases",
+  "rows": 30
+ },
+ "cleansers > solid soap bars": {
+  "heading": "3401",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Body > Body & Bath > Cleansers > Solid Soap Bars",
+  "rows": 30
+ },
+ "ethnic wear > sarees": {
+  "heading": "5407",
+  "rules": [
+   {
+    "words": [
+     "silk"
+    ],
+    "heading": "5007"
+   },
+   {
+    "words": [
+     "cotton"
+    ],
+    "heading": "5208"
+   }
+  ],
+  "uncertain": true,
+  "note": "fabric decides",
+  "example": "Fashion > Women > Clothing > Ethnic Wear > Sarees",
+  "rows": 30
+ },
+ "puzzles > jigsaw puzzles": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Puzzles > Jigsaw Puzzles",
+  "rows": 29
+ },
+ "dress up & pretend play > costumes": {
+  "heading": "9505",
+  "rules": [],
+  "uncertain": true,
+  "note": "textile fancy dress is excluded from ch.95 (61/62) - CA to confirm",
+  "example": "Toys & Games > Dress Up & Pretend Play > Costumes",
+  "rows": 29
+ },
+ "headphones, earbuds & accessories > earpads": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Headphones, Earbuds & Accessories > Earpads",
+  "rows": 29
+ },
+ "hair care > hair masks & packs": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Masks & Packs",
+  "rows": 29
+ },
+ "clothing > jeans": {
+  "heading": "6203",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Men > Clothing > Jeans",
+  "rows": 28
+ },
+ "dolls & accessories > dolls": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Dolls & Accessories > Dolls",
+  "rows": 28
+ },
+ "body washes > body lotions": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Body > Body & Bath > Body Washes > Body Lotions",
+  "rows": 28
+ },
+ "pens & refills > stick ballpoint pens": {
+  "heading": "9608",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > School & Educational Supplies > Pens, Pencils & Writing Supplies > Pens & Refills > Stick Ballpoint Pens",
+  "rows": 27
+ },
+ "painting > paints": {
+  "heading": "3213",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Art & Craft Supplies > Painting > Paints",
+  "rows": 27
+ },
+ "intimate care & hygiene > sanitary napkins": {
+  "heading": "9619",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Intimate Care & Hygiene > Sanitary Napkins",
+  "rows": 27
+ },
+ "soft toys > stuffed animals": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Soft Toys > Stuffed Animals",
+  "rows": 26
+ },
+ "flashlights > handheld (standard) flashlights": {
+  "heading": "8513",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Power & Hand Tools > Hand Tools > Flashlights > Handheld (Standard) Flashlights",
+  "rows": 26
+ },
+ "decorative accessories > idols & figurines": {
+  "heading": "8306",
+  "rules": [
+   {
+    "words": [
+     "resin",
+     "plastic",
+     "polyresin"
+    ],
+    "heading": "3926"
+   },
+   {
+    "words": [
+     "ceramic"
+    ],
+    "heading": "6913"
+   },
+   {
+    "words": [
+     "wood",
+     "wooden"
+    ],
+    "heading": "4420"
+   },
+   {
+    "words": [
+     "marble",
+     "stone"
+    ],
+    "heading": "6802"
+   }
+  ],
+  "uncertain": true,
+  "note": "material decides",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Decorative Accessories > Idols & Figurines",
+  "rows": 26
+ },
+ "sunscreen & aftercare > sunscreen": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Face > Sunscreen & Aftercare > Sunscreen",
+  "rows": 26
+ },
+ "screwdrivers > screwdriver sets": {
+  "heading": "8205",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Power & Hand Tools > Hand Tools > Screwdrivers > Screwdriver Sets",
+  "rows": 25
+ },
+ "pens & refills > pen refills": {
+  "heading": "9608",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > School & Educational Supplies > Pens, Pencils & Writing Supplies > Pens & Refills > Pen Refills",
+  "rows": 25
+ },
+ "breastfeeding > breast pump accessories": {
+  "heading": "9018",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Baby > Feeding > Breastfeeding > Breast Pump Accessories",
+  "rows": 24
+ },
+ "adhesives & glue > adhesive sheets": {
+  "heading": "3919",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Supplies > Tape, Adhesives & Fasteners > Adhesives & Glue > Adhesive Sheets",
+  "rows": 24
+ },
+ "learning & education > science": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Learning & Education > Science",
+  "rows": 24
+ },
+ "baking tools & accessories > baking mats": {
+  "heading": "3924",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Baking Tools & Accessories > Baking Mats",
+  "rows": 24
+ },
+ "ayurveda > chyawanprash": {
+  "heading": "3004",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > Alternative Medicine > Ayurveda > Chyawanprash",
+  "rows": 24
+ },
+ "health care > diabetes care": {
+  "heading": "9027",
+  "rules": [
+   {
+    "words": [
+     "strip",
+     "strips"
+    ],
+    "heading": "3822"
+   },
+   {
+    "words": [
+     "lancet",
+     "lancets"
+    ],
+    "heading": "9018"
+   }
+  ],
+  "uncertain": true,
+  "note": "meter vs strips vs lancets",
+  "example": "Health & Personal Care > Health Care > Diabetes Care",
+  "rows": 23
+ },
+ "tools > practice hands & fingers": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Beauty > Manicure & Pedicure > Nails > Tools > Practice Hands & Fingers",
+  "rows": 23
+ },
+ "mp3/mp4 accessories > stereo jack cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Portable Media Players > Accessories > MP3/MP4 Accessories > Stereo Jack Cables",
+  "rows": 23
+ },
+ "aftershave treatments > soothing lotions": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Shaving, Waxing & Beard Care > Post-Treatments > Aftershave Treatments > Soothing Lotions",
+  "rows": 23
+ },
+ "casual shoes > sneakers": {
+  "heading": "6404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Women's Shoes > Casual Shoes > Sneakers",
+  "rows": 7
+ },
+ "watch straps & bands > men's watchbands": {
+  "heading": "9113",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Watches > Accessories > Watch Straps & Bands > Men's Watchbands",
+  "rows": 23
+ },
+ "women's shoes > fashion sandals": {
+  "heading": "6402",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "6403"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Women's Shoes > Fashion Sandals",
+  "rows": 23
+ },
+ "men > wallets": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Men > Wallets",
+  "rows": 23
+ },
+ "hair care > hair oils": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Oils",
+  "rows": 23
+ },
+ "paint & exterior care > polishes": {
+  "heading": "3405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Car & Motorbike Care > Paint & Exterior Care > Polishes",
+  "rows": 22
+ },
+ "replacement parts > mobile displays": {
+  "heading": "8517",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Maintenance, Upkeep & Repairs > Replacement Parts > Mobile Displays",
+  "rows": 22
+ },
+ "men's shoes > flip-flops & slippers": {
+  "heading": "6402",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Men's Shoes > Flip-Flops & Slippers",
+  "rows": 22
+ },
+ "respiratory & anesthesia equipment > cpap equipment": {
+  "heading": "9019",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Professional Medical Supplies > Respiratory & Anesthesia Equipment > CPAP Equipment",
+  "rows": 22
+ },
+ "video games": {
+  "heading": "8523",
+  "rules": [
+   {
+    "words": [
+     "controller",
+     "console",
+     "gamepad",
+     "joystick"
+    ],
+    "heading": "9504"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Video Games",
+  "rows": 21
+ },
+ "scaled models > motor vehicles": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Toy Vehicles > Scaled Models > Motor Vehicles",
+  "rows": 21
+ },
+ "building & construction toys > building sets": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Building & Construction Toys > Building Sets",
+  "rows": 21
+ },
+ "face > face masks": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Face > Face Masks",
+  "rows": 21
+ },
+ "cable assemblies > hdmi cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Industrial Electrical > Wiring & Connecting > Cable Assemblies > HDMI Cables",
+  "rows": 20
+ },
+ "braces, splints & supports > knee & leg braces": {
+  "heading": "9021",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Home Medical Supplies & Equipment > Braces, Splints & Supports > Knee & Leg Braces",
+  "rows": 20
+ },
+ "speakers > bluetooth speakers": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Audio > Speakers > Bluetooth Speakers",
+  "rows": 20
+ },
+ "hot & cold therapies > hot & cold packs": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > First Aid > Hot & Cold Therapies > Hot & Cold Packs",
+  "rows": 20
+ },
+ "women > wrist watches": {
+  "heading": "9102",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Watches > Women > Wrist Watches",
+  "rows": 20
+ },
+ "fertilizers & plant food > multi-purpose fertilizers": {
+  "heading": "3105",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Outdoor Living > Gardening > Soils, Mulches & Planting Media > Fertilizers & Plant Food > Multi-Purpose Fertilizers",
+  "rows": 20
+ },
+ "dishwasher detergents > liquid detergent": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Dishwashing Supplies > Dishwasher Detergents > Liquid Detergent",
+  "rows": 19
+ },
+ "headphones > over-ear": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Headphones, Earbuds & Accessories > Headphones > Over-Ear",
+  "rows": 19
+ },
+ "hair extensions & wigs > wigs": {
+  "heading": "6704",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Extensions & Wigs > Wigs",
+  "rows": 19
+ },
+ "lips > balms": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Lips > Balms",
+  "rows": 19
+ },
+ "t-shirts, polos & shirts > shirts": {
+  "heading": "6205",
+  "rules": [
+   {
+    "words": [
+     "t-shirt",
+     "tshirt",
+     "polo",
+     "knit",
+     "jersey"
+    ],
+    "heading": "6105"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Fashion > Men > Clothing > T-shirts, Polos & Shirts > Shirts",
+  "rows": 19
+ },
+ "blankets, throws & quilts > blankets": {
+  "heading": "6301",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bedding & Linen > Blankets, Throws & Quilts > Blankets",
+  "rows": 19
+ },
+ "birds > food": {
+  "heading": "2309",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Pet Supplies > Birds > Food",
+  "rows": 19
+ },
+ "specialty lighting > led strips": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Indoor Lighting > Specialty Lighting > LED Strips",
+  "rows": 18
+ },
+ "toothbrushes & accessories > manual toothbrushes": {
+  "heading": "9603",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Oral Care > Toothbrushes & Accessories > Manual Toothbrushes",
+  "rows": 18
+ },
+ "paint & primer > spray paint": {
+  "heading": "3208",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Painting Supplies, Tools & Wall Treatments > Paint & Primer > Spray Paint",
+  "rows": 18
+ },
+ "tripod & monopod accessories > camera mounts & clamps": {
+  "heading": "9620",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Accessories > Tripod & Monopod Accessories > Camera Mounts & Clamps",
+  "rows": 18
+ },
+ "women > necklaces": {
+  "heading": "7117",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Women > Necklaces",
+  "rows": 18
+ },
+ "glassware & drinkware > tumblers": {
+  "heading": "7013",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   },
+   {
+    "words": [
+     "plastic",
+     "acrylic"
+    ],
+    "heading": "3924"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Tableware > Glassware & Drinkware > Tumblers",
+  "rows": 18
+ },
+ "puzzles > 3-d puzzles": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Puzzles > 3-D Puzzles",
+  "rows": 18
+ },
+ "movies & tv shows": {
+  "heading": "8523",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Movies & TV Shows",
+  "rows": 18
+ },
+ "kitchen storage & containers > lunch boxes": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Lunch Boxes",
+  "rows": 18
+ },
+ "skirts & shorts > skirts": {
+  "heading": "6204",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Western Wear > Skirts & Shorts > Skirts",
+  "rows": 18
+ },
+ "desk accessories & storage products > mouse pads": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Supplies > Desk Accessories & Storage Products > Mouse Pads",
+  "rows": 17
+ },
+ "hair color > permanent colour": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Color > Permanent Colour",
+  "rows": 17
+ },
+ "styling > hair serums": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Styling > Hair Serums",
+  "rows": 17
+ },
+ "women's shoes > flip-flops & slippers": {
+  "heading": "6402",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Women's Shoes > Flip-Flops & Slippers",
+  "rows": 17
+ },
+ "women > earrings": {
+  "heading": "7117",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Women > Earrings",
+  "rows": 16
+ },
+ "home furnishing > fabric": {
+  "heading": "5407",
+  "rules": [
+   {
+    "words": [
+     "cotton"
+    ],
+    "heading": "5208"
+   },
+   {
+    "words": [
+     "silk"
+    ],
+    "heading": "5007"
+   },
+   {
+    "words": [
+     "wool"
+    ],
+    "heading": "5112"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Fabric",
+  "rows": 16
+ },
+ "men's > razor blades & cartridges": {
+  "heading": "8212",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Shaving, Waxing & Beard Care > Manual Razors > Men's > Razor Blades & Cartridges",
+  "rows": 16
+ },
+ "pencils > mechanical pencils": {
+  "heading": "9608",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Art & Craft Supplies > Drawing > Drawing Media > Pencils > Mechanical Pencils",
+  "rows": 16
+ },
+ "remote & app-controlled toys > parts & accessories": {
+  "heading": "9503",
+  "rules": [
+   {
+    "words": [
+     "remote",
+     "transmitter",
+     "receiver"
+    ],
+    "heading": "8526"
+   },
+   {
+    "words": [
+     "motor"
+    ],
+    "heading": "8501"
+   },
+   {
+    "words": [
+     "battery",
+     "batteries"
+    ],
+    "heading": "8507"
+   },
+   {
+    "words": [
+     "charger"
+    ],
+    "heading": "8504"
+   }
+  ],
+  "uncertain": true,
+  "note": "electronic parts go to ch.85; CA to confirm",
+  "example": "Toys & Games > Remote & App-Controlled Toys > Parts & Accessories",
+  "rows": 16
+ },
+ "printer accessories > 3d printer parts & accessories": {
+  "heading": "8485",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Electronics > Accessories > Printer Accessories > 3D Printer Parts & Accessories",
+  "rows": 16
+ },
+ "party headwear, eyewear & accessories > masks": {
+  "heading": "9505",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Party Supplies > Party Headwear, Eyewear & Accessories > Masks",
+  "rows": 16
+ },
+ "novelty & gag toys > miniatures": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Novelty & Gag Toys > Miniatures",
+  "rows": 16
+ },
+ "accessories > cases": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > GPS & Accessories > Accessories > Cases",
+  "rows": 7
+ },
+ "bras > everyday bras": {
+  "heading": "6212",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Lingerie & Nightwear > Lingerie > Bras > Everyday Bras",
+  "rows": 16
+ },
+ "dolls & accessories > playsets": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Dolls & Accessories > Playsets",
+  "rows": 16
+ },
+ "pens & refills > gel ink rollerball pens": {
+  "heading": "9608",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > School & Educational Supplies > Pens, Pencils & Writing Supplies > Pens & Refills > Gel Ink Rollerball Pens",
+  "rows": 16
+ },
+ "women > walking shoes": {
+  "heading": "6404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Footwear > Women > Walking Shoes",
+  "rows": 16
+ },
+ "deodorants & antiperspirants > deodorant": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Body > Body & Bath > Deodorants & Antiperspirants > Deodorant",
+  "rows": 16
+ },
+ "body & bath > body scrubs": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Body > Body & Bath > Body Scrubs",
+  "rows": 16
+ },
+ "pots & pans > pressure cookers": {
+  "heading": "7615",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Cookware > Pots & Pans > Pressure Cookers",
+  "rows": 16
+ },
+ "face > toners": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Face > Toners",
+  "rows": 16
+ },
+ "household cleaners > de-scalers": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Household Cleaners > De-Scalers",
+  "rows": 16
+ },
+ "ethnic wear > blouses": {
+  "heading": "6206",
+  "rules": [
+   {
+    "words": [
+     "knitted",
+     "jersey"
+    ],
+    "heading": "6106"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Ethnic Wear > Blouses",
+  "rows": 16
+ },
+ "kitchen knives > kitchen knife sets": {
+  "heading": "8211",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Kitchen Knives > Kitchen Knife Sets",
+  "rows": 15
+ },
+ "inks, toners & cartridges > inkjet ink cartridges": {
+  "heading": "3215",
+  "rules": [],
+  "uncertain": true,
+  "note": "ink vs empty cartridge 8443",
+  "example": "Computers & Accessories > Printers, Inks & Accessories > Inks, Toners & Cartridges > Inkjet Ink Cartridges",
+  "rows": 15
+ },
+ "cushions & cushion covers > cushion covers": {
+  "heading": "6304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Cushions & Cushion Covers > Cushion Covers",
+  "rows": 15
+ },
+ "dusting supplies > feather dusters": {
+  "heading": "9603",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Janitorial & Sanitation Supplies > Cleaning Tools > Dusting Supplies > Feather Dusters",
+  "rows": 15
+ },
+ "power shaving & hair removal devices > epilators": {
+  "heading": "8510",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care & Health Appliances > Personal Care Appliances > Power Shaving & Hair Removal Devices > Epilators",
+  "rows": 15
+ },
+ "keyboards, mice & input devices > keyboards": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Keyboards, Mice & Input Devices > Keyboards",
+  "rows": 15
+ },
+ "accessories > gloves": {
+  "heading": "6116",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "4203"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Exercise & Fitness > Accessories > Gloves",
+  "rows": 15
+ },
+ "weatherproofing > weather stripping": {
+  "heading": "3919",
+  "rules": [
+   {
+    "words": [
+     "rubber",
+     "epdm",
+     "silicone"
+    ],
+    "heading": "4016"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home Improvement > Building Supplies > HVAC > Weatherproofing > Weather Stripping",
+  "rows": 15
+ },
+ "parts > electric guitar parts": {
+  "heading": "9209",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Musical Instruments > Guitars, Basses & Gear > Parts > Electric Guitar Parts",
+  "rows": 15
+ },
+ "health supplies > bone & joint health supplements": {
+  "heading": "2309",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Pet Supplies > Dogs > Health Supplies > Bone & Joint Health Supplements",
+  "rows": 15
+ },
+ "keyboard & mice accessories > dust covers": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Keyboards, Mice & Input Devices > Keyboard & Mice Accessories > Dust Covers",
+  "rows": 15
+ },
+ "music": {
+  "heading": "8523",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Music",
+  "rows": 15
+ },
+ "handbags, purses & clutches > sling & cross-body bags": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Handbags, Purses & Clutches > Sling & Cross-Body Bags",
+  "rows": 15
+ },
+ "maintenance, upkeep & repairs > repair kits": {
+  "heading": "8206",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Maintenance, Upkeep & Repairs > Repair Kits",
+  "rows": 15
+ },
+ "ethnic wear > kurtas": {
+  "heading": "6205",
+  "rules": [
+   {
+    "words": [
+     "knitted",
+     "jersey"
+    ],
+    "heading": "6105"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Men > Clothing > Ethnic Wear > Kurtas",
+  "rows": 15
+ },
+ "face > face pack": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Face > Face Pack",
+  "rows": 15
+ },
+ "headphones > open-ear headphones": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Headphones, Earbuds & Accessories > Headphones > Open-Ear Headphones",
+  "rows": 14
+ },
+ "dressing up & costumes > hats & headwear": {
+  "heading": "6505",
+  "rules": [
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "6506"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Dress Up & Pretend Play > Dressing Up & Costumes > Hats & Headwear",
+  "rows": 14
+ },
+ "tv mounts & stands > tv wall & ceiling mounts": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > TV Mounts & Stands > TV Wall & Ceiling Mounts",
+  "rows": 14
+ },
+ "travel accessories > keyrings & keychains": {
+  "heading": "7326",
+  "rules": [],
+  "uncertain": true,
+  "note": "keyrings: 7326/8306/7117 - CA to confirm",
+  "example": "Fashion > Bags & Luggage > Travel Accessories > Keyrings & Keychains",
+  "rows": 14
+ },
+ "vacuum accessories > vacuum replacement parts": {
+  "heading": "8508",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Home Appliances > Vacuum, Cleaning & Ironing > Vacuums & Floor Care > Vacuum Accessories > Vacuum Replacement Parts",
+  "rows": 14
+ },
+ "pots & pans > frying pans": {
+  "heading": "7615",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel",
+     "iron",
+     "cast iron"
+    ],
+    "heading": "7323"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Cookware > Pots & Pans > Frying Pans",
+  "rows": 14
+ },
+ "beading & jewellery-making > beads & bead assortments": {
+  "heading": "7018",
+  "rules": [
+   {
+    "words": [
+     "acrylic",
+     "plastic"
+    ],
+    "heading": "3926"
+   },
+   {
+    "words": [
+     "wood",
+     "wooden"
+    ],
+    "heading": "4420"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Beading & Jewellery-Making > Beads & Bead Assortments",
+  "rows": 14
+ },
+ "laptop bags > laptop messenger bags": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Bags & Luggage > Bags & Backpacks > Laptop Bags > Laptop Messenger Bags",
+  "rows": 14
+ },
+ "snacks > crunchy treats": {
+  "heading": "2309",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Pet Supplies > Cats > Treats > Snacks > Crunchy Treats",
+  "rows": 14
+ },
+ "baby & toddler toys > sound toys": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Baby & Toddler Toys > Sound Toys",
+  "rows": 14
+ },
+ "card games > standard playing card decks": {
+  "heading": "9504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Games > Tabletop Games > Card Games > Standard Playing Card Decks",
+  "rows": 14
+ },
+ "laundry detergents > liquid detergent": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Laundry > Laundry Detergents > Liquid Detergent",
+  "rows": 14
+ },
+ "card games > dedicated deck card games": {
+  "heading": "9504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Games > Tabletop Games > Card Games > Dedicated Deck Card Games",
+  "rows": 14
+ },
+ "tablet accessories > tablet keyboards": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Tablet Accessories > Tablet Keyboards",
+  "rows": 14
+ },
+ "household supplies > pooja supplies": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": true,
+  "note": "pooja supplies are mixed (incense, camphor, lamps)",
+  "example": "Health & Personal Care > Household Supplies > Pooja Supplies",
+  "rows": 14
+ },
+ "pots & pans > tawas": {
+  "heading": "7323",
+  "rules": [
+   {
+    "words": [
+     "aluminium",
+     "aluminum"
+    ],
+    "heading": "7615"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Cookware > Pots & Pans > Tawas",
+  "rows": 14
+ },
+ "plants, seeds & bulbs > bulbs": {
+  "heading": "0601",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Outdoor Living > Plants, Seeds & Bulbs > Bulbs",
+  "rows": 14
+ },
+ "bedsheets & pillowcases > sheet & pillowcase sets": {
+  "heading": "6302",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bedding & Linen > Bedsheets & Pillowcases > Sheet & Pillowcase Sets",
+  "rows": 14
+ },
+ "cables > rca cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > Cables > RCA Cables",
+  "rows": 13
+ },
+ "cables > power cords": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Audio > Accessories > Cables > Power Cords",
+  "rows": 13
+ },
+ "action & toy figures > playsets": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Action & Toy Figures > Playsets",
+  "rows": 13
+ },
+ "household supplies > lighters & matches": {
+  "heading": "9613",
+  "rules": [
+   {
+    "words": [
+     "match",
+     "matches",
+     "matchbox"
+    ],
+    "heading": "3605"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Lighters & Matches",
+  "rows": 13
+ },
+ "jewellery accessories > cleaning & care": {
+  "heading": "3405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Jewellery > Jewellery Accessories > Cleaning & Care",
+  "rows": 13
+ },
+ "accessories > gaming keyboards": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Video Games > PC Games > Accessories > Gaming Keyboards",
+  "rows": 13
+ },
+ "toy vehicles > cars & race cars": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Toy Vehicles > Cars & Race Cars",
+  "rows": 13
+ },
+ "car video > on-dash video": {
+  "heading": "8525",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Car & Vehicle Electronics > Car Electronics > Car Video > On-Dash Video",
+  "rows": 13
+ },
+ "kitchen storage & containers > produce storage bags": {
+  "heading": "3923",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Produce Storage Bags",
+  "rows": 13
+ },
+ "gadget accessories > watchbands": {
+  "heading": "9113",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Sports Gadgets > Gadget Accessories > Watchbands",
+  "rows": 13
+ },
+ "care & aid products > lubricants & licks": {
+  "heading": "3403",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Sexual Wellness & Sensuality > Care & Aid Products > Lubricants & Licks",
+  "rows": 13
+ },
+ "teacups, mugs & saucers > coffee cups & mugs": {
+  "heading": "6912",
+  "rules": [
+   {
+    "words": [
+     "glass"
+    ],
+    "heading": "7013"
+   },
+   {
+    "words": [
+     "steel",
+     "stainless"
+    ],
+    "heading": "7323"
+   },
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "3924"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Food Service Equipment & Supplies > Tabletop & Serveware > Dishware and Serveware > Dinnerware > Teacups, Mugs & Saucers > Coffee Cups & Mugs",
+  "rows": 13
+ },
+ "baby monitors > video monitors": {
+  "heading": "8525",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Baby > Baby Safety > Baby Monitors > Video Monitors",
+  "rows": 13
+ },
+ "water bottles & accessories > sports water bottle accessories": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Sports & Outdoor Recreation Accessories > Water Bottles & Accessories > Sports Water Bottle Accessories",
+  "rows": 13
+ },
+ "books": {
+  "heading": "4901",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Books",
+  "rows": 13
+ },
+ "curtains & drapes > panels": {
+  "heading": "6303",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Curtains & Accessories > Curtains & Drapes > Panels",
+  "rows": 13
+ },
+ "styling > creams, gels & lotions": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Styling > Creams, Gels & Lotions",
+  "rows": 13
+ },
+ "electric massagers > electric handheld massagers": {
+  "heading": "9019",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care & Health Appliances > Health Care Devices > Electric Massagers > Electric Handheld Massagers",
+  "rows": 13
+ },
+ "dvd players & recorders > dvd players": {
+  "heading": "8521",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > DVD Players & Recorders > DVD Players",
+  "rows": 13
+ },
+ "hair color > semi-permanent colour": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Color > Semi-Permanent Colour",
+  "rows": 13
+ },
+ "casual shoes > boots": {
+  "heading": "6403",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Men's Shoes > Casual Shoes > Boots",
+  "rows": 13
+ },
+ "hair loss products > hair regrowth shampoos": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Loss Products > Hair Regrowth Shampoos",
+  "rows": 13
+ },
+ "vitamins, minerals & supplements > combination multivitamins & minerals": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Vitamins, Minerals & Supplements > Combination Multivitamins & Minerals",
+  "rows": 12
+ },
+ "exterior accessories > key shells": {
+  "heading": "8301",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Car Accessories > Exterior Accessories > Key Shells",
+  "rows": 12
+ },
+ "clocks > alarm clocks": {
+  "heading": "9105",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Clocks > Alarm Clocks",
+  "rows": 12
+ },
+ "industrial hardware > brackets": {
+  "heading": "7326",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Industrial Hardware > Brackets",
+  "rows": 12
+ },
+ "keyboards, mice & input devices > mice": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Keyboards, Mice & Input Devices > Mice",
+  "rows": 12
+ },
+ "men > caps": {
+  "heading": "6505",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Tennis > Clothing > Men > Caps",
+  "rows": 12
+ },
+ "outdoor living > lighting": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Outdoor Living > Lighting",
+  "rows": 12
+ },
+ "girls > leotards": {
+  "heading": "6114",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Sports Clothing > Gymnastics > Girls > Leotards",
+  "rows": 12
+ },
+ "hair styling tools > brushes": {
+  "heading": "9603",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Styling Tools > Brushes",
+  "rows": 12
+ },
+ "household cleaners > furniture & wood polishes": {
+  "heading": "3405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Household Cleaners > Furniture & Wood Polishes",
+  "rows": 12
+ },
+ "strength training equipment > resistance bands": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Exercise & Fitness > Strength Training Equipment > Resistance Bands",
+  "rows": 12
+ },
+ "baby toys > rattles & plush rings": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Baby & Toddler Toys > Baby Toys > Rattles & Plush Rings",
+  "rows": 12
+ },
+ "bedsheets & pillowcases > pillow protectors": {
+  "heading": "6302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bedding & Linen > Bedsheets & Pillowcases > Pillow Protectors",
+  "rows": 12
+ },
+ "arts & crafts > stickers": {
+  "heading": "4911",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Arts & Crafts > Stickers",
+  "rows": 12
+ },
+ "cables & adapters > audio adapters": {
+  "heading": "8536",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Cables & Adapters > Audio Adapters",
+  "rows": 12
+ },
+ "smart watches & accessories > screen protectors & foils": {
+  "heading": "3919",
+  "rules": [
+   {
+    "words": [
+     "glass",
+     "tempered"
+    ],
+    "heading": "7007"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Wearable Technology > Smart Watches & Accessories > Screen Protectors & Foils",
+  "rows": 12
+ },
+ "t-shirts, polos & shirts > t-shirts": {
+  "heading": "6109",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Men > Clothing > T-shirts, Polos & Shirts > T-Shirts",
+  "rows": 12
+ },
+ "portable media players > mp3/mp4 players": {
+  "heading": "8519",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Portable Media Players > MP3/MP4 Players",
+  "rows": 12
+ },
+ "small kitchen appliances > vacuum sealers": {
+  "heading": "8422",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Home Appliances > Small Kitchen Appliances > Vacuum Sealers",
+  "rows": 12
+ },
+ "running > headlamps": {
+  "heading": "8513",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Running > Headlamps",
+  "rows": 12
+ },
+ "wearable technology > smart watches": {
+  "heading": "8517",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Wearable Technology > Smart Watches",
+  "rows": 12
+ },
+ "women's shoes > pumps": {
+  "heading": "6403",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Women's Shoes > Pumps",
+  "rows": 12
+ },
+ "men's shoes > formal shoes": {
+  "heading": "6403",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Men's Shoes > Formal Shoes",
+  "rows": 12
+ },
+ "fruit & herbal tea > herbal tea": {
+  "heading": "2106",
+  "rules": [
+   {
+    "words": [
+     "green tea",
+     "black tea",
+     "darjeeling",
+     "assam",
+     "masala chai"
+    ],
+    "heading": "0902"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Grocery & Gourmet Foods > Coffee, Tea & Beverages > Tea > Fruit & Herbal Tea > Herbal Tea",
+  "rows": 12
+ },
+ "sleep & lounge wear > nighties & nightdresses": {
+  "heading": "6208",
+  "rules": [
+   {
+    "words": [
+     "knit",
+     "knitted",
+     "jersey"
+    ],
+    "heading": "6108"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Sleep & Lounge Wear > Nighties & Nightdresses",
+  "rows": 12
+ },
+ "artwork > paintings": {
+  "heading": "9701",
+  "rules": [],
+  "uncertain": true,
+  "note": "hand-painted 9701 vs printed 4911",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Artwork > Paintings",
+  "rows": 12
+ },
+ "hair loss products > hair regrowth treatments": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Loss Products > Hair Regrowth Treatments",
+  "rows": 12
+ },
+ "pest control > bird control": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Outdoor Living > Pest Control > Bird Control",
+  "rows": 12
+ },
+ "tapes, adhesives & sealers > sealers": {
+  "heading": "3214",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Tapes, Adhesives & Sealers > Sealers",
+  "rows": 11
+ },
+ "presentation supplies > message boards & signs": {
+  "heading": "9610",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Supplies > Presentation Supplies > Message Boards & Signs",
+  "rows": 11
+ },
+ "thermal management products > computer cooling fans": {
+  "heading": "8414",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Industrial Electrical > Thermal Management Products > Computer Cooling Fans",
+  "rows": 11
+ },
+ "power accessories > ac adapters": {
+  "heading": "8504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Power Accessories > AC Adapters",
+  "rows": 11
+ },
+ "calendars, planners & personal organisers > appointment books & planners": {
+  "heading": "4820",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Calendars, Planners & Personal Organisers > Appointment Books & Planners",
+  "rows": 11
+ },
+ "ear protection > safety earmuffs": {
+  "heading": "6506",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Occupational Health & Safety Products > Work Safety Equipment & Gear > Ear Protection > Safety Earmuffs",
+  "rows": 11
+ },
+ "accessories > adapters": {
+  "heading": "8536",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > Adapters",
+  "rows": 11
+ },
+ "calendars, planners & personal organisers > address books": {
+  "heading": "4820",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Calendars, Planners & Personal Organisers > Address Books",
+  "rows": 11
+ },
+ "collectible card games > booster packs": {
+  "heading": "9504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Games > Tabletop Games > Card Games > Collectible Card Games > Booster Packs",
+  "rows": 11
+ },
+ "remote & app-controlled toys > drones": {
+  "heading": "8806",
+  "rules": [
+   {
+    "words": [
+     "toy"
+    ],
+    "heading": "9503"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Remote & App-Controlled Toys > Drones",
+  "rows": 11
+ },
+ "cards & card stock > greeting cards": {
+  "heading": "4909",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Cards & Card Stock > Greeting Cards",
+  "rows": 11
+ },
+ "women > running shoes": {
+  "heading": "6404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Running > Footwear > Women > Running Shoes",
+  "rows": 11
+ },
+ "adhesives & glue > art glues": {
+  "heading": "3506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Supplies > Tape, Adhesives & Fasteners > Adhesives & Glue > Art Glues",
+  "rows": 11
+ },
+ "blasters & toy guns > foam blasters": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Sport & Outdoor > Blasters & Toy Guns > Foam Blasters",
+  "rows": 11
+ },
+ "insulated drinks containers > cups & mugs": {
+  "heading": "9617",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Thermos & Vacuum Flasks > Insulated Drinks Containers > Cups & Mugs",
+  "rows": 11
+ },
+ "styling > creams & lotions": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Styling > Creams & Lotions",
+  "rows": 11
+ },
+ "badminton > racquets": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Badminton > Racquets",
+  "rows": 11
+ },
+ "household cleaners > all-purpose cleaners": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Household Cleaners > All-Purpose Cleaners",
+  "rows": 11
+ },
+ "toys & games > novelty & gag toys": {
+  "heading": "9505",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Novelty & Gag Toys",
+  "rows": 11
+ },
+ "novelty & gag toys > gag toys & practical jokes": {
+  "heading": "9505",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Novelty & Gag Toys > Gag Toys & Practical Jokes",
+  "rows": 11
+ },
+ "food > aquarium fish": {
+  "heading": "2309",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Pet Supplies > Fish & Aquatics > Food > Aquarium Fish",
+  "rows": 11
+ },
+ "sports supplements > supplements shakers": {
+  "heading": "3924",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Sports Supplements > Supplements Shakers",
+  "rows": 11
+ },
+ "ethnic wear > chunnis & dupattas": {
+  "heading": "6214",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Ethnic Wear > Chunnis & Dupattas",
+  "rows": 11
+ },
+ "personal care > hand care": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Hand Care",
+  "rows": 11
+ },
+ "fragrance > eau de toilette": {
+  "heading": "3303",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Fragrance > Eau de Toilette",
+  "rows": 10
+ },
+ "laptop accessories > laptop chargers & power supplies": {
+  "heading": "8504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Laptop Accessories > Laptop Chargers & Power Supplies",
+  "rows": 10
+ },
+ "ceramics & pottery > ceramic & pottery tools": {
+  "heading": "8205",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Ceramics & Pottery > Ceramic & Pottery Tools",
+  "rows": 10
+ },
+ "tapes, adhesives & sealers > universal adhesives": {
+  "heading": "3506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Tapes, Adhesives & Sealers > Universal Adhesives",
+  "rows": 10
+ },
+ "wearable technology > single ear bluetooth headsets": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Wearable Technology > Single Ear Bluetooth Headsets",
+  "rows": 10
+ },
+ "3d printer parts & accessories > 3d printer accessories": {
+  "heading": "8485",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Electronics > Accessories > Printer Accessories > 3D Printer Parts & Accessories > 3D Printer Accessories",
+  "rows": 10
+ },
+ "additive manufacturing products > 3d printers": {
+  "heading": "8485",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Additive Manufacturing Products > 3D Printers",
+  "rows": 10
+ },
+ "telephones & accessories > landline phones": {
+  "heading": "8517",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Telephones & Accessories > Landline Phones",
+  "rows": 10
+ },
+ "engines & engine parts > ignitions": {
+  "heading": "8511",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Motorbike Accessories & Parts > Engines & Engine Parts > Ignitions",
+  "rows": 10
+ },
+ "beading & jewellery-making > charms": {
+  "heading": "7117",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Beading & Jewellery-Making > Charms",
+  "rows": 10
+ },
+ "action & toy figures > bobbleheads": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Action & Toy Figures > Bobbleheads",
+  "rows": 10
+ },
+ "mirrors > make-up mirrors": {
+  "heading": "7009",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Beauty Tools & Accessories > Mirrors > Make-up Mirrors",
+  "rows": 10
+ },
+ "computers & accessories > components": {
+  "heading": "8473",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Components",
+  "rows": 10
+ },
+ "pillows > specialty medical pillows": {
+  "heading": "9404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bedding & Linen > Pillows > Specialty Medical Pillows",
+  "rows": 10
+ },
+ "amazon pharmacy > over-the-counter medication": {
+  "heading": "3004",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Amazon Pharmacy > Over-the-Counter Medication",
+  "rows": 10
+ },
+ "shampoo & conditioner > deep conditioners & treatments": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Shampoo & Conditioner > Deep Conditioners & Treatments",
+  "rows": 10
+ },
+ "bangles & bracelets > bracelets": {
+  "heading": "7117",
+  "rules": [
+   {
+    "words": [
+     "gold",
+     "silver",
+     "sterling"
+    ],
+    "heading": "7113"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Women > Bangles & Bracelets > Bracelets",
+  "rows": 10
+ },
+ "radios > am/fm radios": {
+  "heading": "8527",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Portable Media Players > Radios > AM/FM Radios",
+  "rows": 10
+ },
+ "exercise machine parts & accessories > exercise machine attachments": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Exercise & Fitness > Exercise Machine Parts & Accessories > Exercise Machine Attachments",
+  "rows": 10
+ },
+ "electronic toys > electronic pets": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Electronic Toys > Electronic Pets",
+  "rows": 10
+ },
+ "camera cases > compact camera cases": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Cases & Bags > Camera Cases > Compact Camera Cases",
+  "rows": 10
+ },
+ "bottle feeding > bottles": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "glass"
+    ],
+    "heading": "7013"
+   },
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Feeding > Bottle Feeding > Bottles",
+  "rows": 10
+ },
+ "swimming > goggles": {
+  "heading": "9004",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Water Sports > Swimming > Goggles",
+  "rows": 10
+ },
+ "men > rings": {
+  "heading": "7117",
+  "rules": [
+   {
+    "words": [
+     "gold",
+     "silver",
+     "sterling"
+    ],
+    "heading": "7113"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Men > Rings",
+  "rows": 10
+ },
+ "dresses & jumpsuits > dresses": {
+  "heading": "6204",
+  "rules": [
+   {
+    "words": [
+     "knit",
+     "knitted",
+     "jersey"
+    ],
+    "heading": "6104"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Western Wear > Dresses & Jumpsuits > Dresses",
+  "rows": 10
+ },
+ "fragrance > eau de parfum": {
+  "heading": "3303",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Fragrance > Eau de Parfum",
+  "rows": 10
+ },
+ "bathing > baby shampoos": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Baby Care > Bathing > Baby Shampoos",
+  "rows": 10
+ },
+ "men > wrestling shoes": {
+  "heading": "6404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Footwear > Men > Wrestling Shoes",
+  "rows": 10
+ },
+ "drawing & painting supplies > drawing pads & sketchbooks": {
+  "heading": "4820",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Arts & Crafts > Drawing & Painting Supplies > Drawing Pads & Sketchbooks",
+  "rows": 10
+ },
+ "face > foundation": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Make-up > Face > Foundation",
+  "rows": 10
+ },
+ "vitamins, minerals & supplements > collagen": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Vitamins, Minerals & Supplements > Collagen",
+  "rows": 10
+ },
+ "body washes > body oils": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Body > Body & Bath > Body Washes > Body Oils",
+  "rows": 10
+ },
+ "innerwear > briefs": {
+  "heading": "6107",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Fashion > Men > Clothing > Innerwear > Briefs",
+  "rows": 10
+ },
+ "lab, safety & work gloves > work": {
+  "heading": "4015",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "4203"
+   },
+   {
+    "words": [
+     "cotton",
+     "knit"
+    ],
+    "heading": "6116"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Occupational Health & Safety Products > Work Safety Equipment & Gear > Hand & Arm Protection > Lab, Safety & Work Gloves > Work",
+  "rows": 9
+ },
+ "surveillance cameras > dome cameras": {
+  "heading": "8525",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Safety & Security > Home Security Systems > Surveillance Video Equipment > Surveillance Cameras > Dome Cameras",
+  "rows": 9
+ },
+ "wiring & connecting > electrical wire": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Industrial Electrical > Wiring & Connecting > Electrical Wire",
+  "rows": 9
+ },
+ "3d printer parts & accessories > 3d printer extruders": {
+  "heading": "8485",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Electronics > Accessories > Printer Accessories > 3D Printer Parts & Accessories > 3D Printer Extruders",
+  "rows": 9
+ },
+ "door hardware & locks > hinges": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Hardware > Door Hardware & Locks > Hinges",
+  "rows": 9
+ },
+ "solar & wind power > solar lights, heaters & gadgets": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Outdoor Living > Solar & Wind Power > Solar Lights, Heaters & Gadgets",
+  "rows": 9
+ },
+ "clocks > wall clocks": {
+  "heading": "9105",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Clocks > Wall Clocks",
+  "rows": 9
+ },
+ "artwork > posters": {
+  "heading": "4911",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Artwork > Posters",
+  "rows": 9
+ },
+ "bottle feeding > bottle nipples": {
+  "heading": "4014",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Feeding > Bottle Feeding > Bottle Nipples",
+  "rows": 9
+ },
+ "markers & highlighters > art markers": {
+  "heading": "9608",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > School & Educational Supplies > Pens, Pencils & Writing Supplies > Markers & Highlighters > Art Markers",
+  "rows": 9
+ },
+ "electric toothbrushes & accessories > replacement brush heads": {
+  "heading": "8509",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Oral Care > Toothbrushes & Accessories > Electric Toothbrushes & Accessories > Replacement Brush Heads",
+  "rows": 9
+ },
+ "desk accessories & storage products > reading magnifiers": {
+  "heading": "9013",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Supplies > Desk Accessories & Storage Products > Reading Magnifiers",
+  "rows": 9
+ },
+ "decorative accessories > hanging ornaments": {
+  "heading": "9505",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Decorative Accessories > Hanging Ornaments",
+  "rows": 9
+ },
+ "oral care > mouthwashes": {
+  "heading": "3306",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Oral Care > Mouthwashes",
+  "rows": 9
+ },
+ "microphones > wireless": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Musical Instruments > Recording & Computer > Microphones > Wireless",
+  "rows": 9
+ },
+ "accessories > gaming mice": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Video Games > PC Games > Accessories > Gaming Mice",
+  "rows": 9
+ },
+ "camping & hiking > lighters & fire starters": {
+  "heading": "9613",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Outdoor Recreation > Camping & Hiking > Lighters & Fire Starters",
+  "rows": 9
+ },
+ "accessories > bags, covers & cases": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Musical Instruments > Synthesisers, Samplers & Digital Instruments > Accessories > Bags, Covers & Cases",
+  "rows": 9
+ },
+ "minerals > magnesium": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Vitamins, Minerals & Supplements > Minerals > Magnesium",
+  "rows": 9
+ },
+ "tablet accessories > stands": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Tablet Accessories > Stands",
+  "rows": 9
+ },
+ "surveillance cameras > bullet cameras": {
+  "heading": "8525",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Safety & Security > Home Security Systems > Surveillance Video Equipment > Surveillance Cameras > Bullet Cameras",
+  "rows": 9
+ },
+ "smart watches & accessories > cases": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Wearable Technology > Smart Watches & Accessories > Cases",
+  "rows": 9
+ },
+ "action & toy figures > animals": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Action & Toy Figures > Animals",
+  "rows": 9
+ },
+ "photo frames > wall & tabletop frames": {
+  "heading": "4414",
+  "rules": [
+   {
+    "words": [
+     "plastic",
+     "acrylic"
+    ],
+    "heading": "3926"
+   },
+   {
+    "words": [
+     "metal",
+     "brass"
+    ],
+    "heading": "8306"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Photo Albums, Frames & Accessories > Photo Frames > Wall & Tabletop Frames",
+  "rows": 9
+ },
+ "home fragrance > incense sticks": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Home Fragrance > Incense Sticks",
+  "rows": 9
+ },
+ "kitchen linen > table cloths": {
+  "heading": "6302",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Tableware > Kitchen Linen > Table Cloths",
+  "rows": 9
+ },
+ "movies & tv shows > movies": {
+  "heading": "8523",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Movies & TV Shows > Movies",
+  "rows": 9
+ },
+ "men > chains": {
+  "heading": "7117",
+  "rules": [
+   {
+    "words": [
+     "gold",
+     "silver",
+     "sterling"
+    ],
+    "heading": "7113"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Men > Chains",
+  "rows": 9
+ },
+ "artwork > art prints": {
+  "heading": "4911",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Artwork > Art Prints",
+  "rows": 9
+ },
+ "protective gear > mouthguards": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Boxing > Protective Gear > Mouthguards",
+  "rows": 9
+ },
+ "dress-up accessories > gloves & handwear": {
+  "heading": "6116",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Gloves & Handwear",
+  "rows": 9
+ },
+ "coats, jackets & vests > jackets": {
+  "heading": "6201",
+  "rules": [
+   {
+    "words": [
+     "women",
+     "womens",
+     "ladies",
+     "girls"
+    ],
+    "heading": "6202"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Fashion > Men > Clothing > Winter Wear > Coats, Jackets & Vests > Jackets",
+  "rows": 9
+ },
+ "kitchen tools > food strainers": {
+  "heading": "7323",
+  "rules": [
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "3924"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Food Strainers",
+  "rows": 9
+ },
+ "cutting tools > scissors": {
+  "heading": "8213",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Art & Craft Supplies > Cutting Tools > Scissors",
+  "rows": 9
+ },
+ "specialty lighting > night lights": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Indoor Lighting > Specialty Lighting > Night Lights",
+  "rows": 9
+ },
+ "headphones, earbuds & accessories > extension cords": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Headphones, Earbuds & Accessories > Extension Cords",
+  "rows": 9
+ },
+ "components > computer cases": {
+  "heading": "8473",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Components > Computer Cases",
+  "rows": 9
+ },
+ "bangles & bracelets > bangles": {
+  "heading": "7117",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Women > Bangles & Bracelets > Bangles",
+  "rows": 9
+ },
+ "water quality testing & treatment > water treatments": {
+  "heading": "3824",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Pet Supplies > Fish & Aquatics > Aquarium Accessories > Water Quality Testing & Treatment > Water Treatments",
+  "rows": 9
+ },
+ "pacifiers & teethers > pacifiers": {
+  "heading": "4014",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Pacifiers & Teethers > Pacifiers",
+  "rows": 9
+ },
+ "women's shoes > boots": {
+  "heading": "6403",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Women's Shoes > Boots",
+  "rows": 9
+ },
+ "statues, maquettes & busts > statues": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Action & Toy Figures > Statues, Maquettes & Busts > Statues",
+  "rows": 9
+ },
+ "strength training devices > grip strengtheners": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Exercise & Fitness > Strength Training Equipment > Strength Training Devices > Grip Strengtheners",
+  "rows": 9
+ },
+ "water quality testing & treatment > test kits": {
+  "heading": "3822",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Pet Supplies > Fish & Aquatics > Aquarium Accessories > Water Quality Testing & Treatment > Test Kits",
+  "rows": 9
+ },
+ "bags & sleeves > laptop sleeves & slipcases": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Laptop Accessories > Bags & Sleeves > Laptop Sleeves & Slipcases",
+  "rows": 9
+ },
+ "antennas > radio antennas": {
+  "heading": "8529",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > Antennas > Radio Antennas",
+  "rows": 9
+ },
+ "juices > fruit juice": {
+  "heading": "2009",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Grocery & Gourmet Foods > Coffee, Tea & Beverages > Juices > Fruit Juice",
+  "rows": 9
+ },
+ "hair care > hennas": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Beauty > Hair Care > Hennas",
+  "rows": 9
+ },
+ "casual shoes > loafers & moccasins": {
+  "heading": "6403",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Men's Shoes > Casual Shoes > Loafers & Moccasins",
+  "rows": 9
+ },
+ "face > primers": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Make-up > Face > Primers",
+  "rows": 9
+ },
+ "clothes drying racks > wall-mounted dry racks": {
+  "heading": "7323",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Storage & Organisation > Laundry Organization > Clothes Drying Racks > Wall-Mounted Dry Racks",
+  "rows": 9
+ },
+ "paper & paper crafts > punches": {
+  "heading": "8472",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Paper & Paper Crafts > Punches",
+  "rows": 8
+ },
+ "components > graphics cards": {
+  "heading": "8473",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Components > Graphics Cards",
+  "rows": 8
+ },
+ "adapters > serial adapters": {
+  "heading": "8536",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Adapters > Serial Adapters",
+  "rows": 8
+ },
+ "accessories > film": {
+  "heading": "3702",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Accessories > Film",
+  "rows": 8
+ },
+ "drink servers > carafes": {
+  "heading": "7013",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Food Service Equipment & Supplies > Tabletop & Serveware > Dishware and Serveware > Serveware > Drink Servers > Carafes",
+  "rows": 8
+ },
+ "interior accessories > air fresheners": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Car Accessories > Interior Accessories > Air Fresheners",
+  "rows": 8
+ },
+ "thermal paste & pads > thermal paste": {
+  "heading": "3824",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Components > Fans & Cooling > Thermal Paste & Pads > Thermal Paste",
+  "rows": 8
+ },
+ "engine tools & equipment > obd-ii engine system diagnostic tools": {
+  "heading": "9031",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Vehicle Tools > Engine Tools & Equipment > OBD-II Engine System Diagnostic Tools",
+  "rows": 8
+ },
+ "cleaning tools > squeegees": {
+  "heading": "9603",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Janitorial & Sanitation Supplies > Cleaning Tools > Squeegees",
+  "rows": 8
+ },
+ "action & toy figures > dinosaurs & prehistoric creatures": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Action & Toy Figures > Dinosaurs & Prehistoric Creatures",
+  "rows": 8
+ },
+ "handbags, purses & clutches > women's wallets": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Handbags, Purses & Clutches > Women's Wallets",
+  "rows": 8
+ },
+ "networking devices > antennas & amplifiers": {
+  "heading": "8529",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Networking Devices > Antennas & Amplifiers",
+  "rows": 8
+ },
+ "ties > neckties": {
+  "heading": "6215",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Men > Clothing > Accessories > Ties > Neckties",
+  "rows": 8
+ },
+ "novelty & gag toys > fortune telling toys": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Novelty & Gag Toys > Fortune Telling Toys",
+  "rows": 8
+ },
+ "electronic toys > storytelling toys": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Electronic Toys > Storytelling Toys",
+  "rows": 8
+ },
+ "webcams & voip equipment > pc speakers": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Webcams & VoIP Equipment > PC Speakers",
+  "rows": 8
+ },
+ "interior care > upholstery care": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Car & Motorbike Care > Interior Care > Upholstery Care",
+  "rows": 8
+ },
+ "sculpting > molding & casting": {
+  "heading": "3407",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Sculpting > Molding & Casting",
+  "rows": 8
+ },
+ "laptop bags > laptop backpacks": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Bags & Luggage > Bags & Backpacks > Laptop Bags > Laptop Backpacks",
+  "rows": 8
+ },
+ "shaving & hair removal > tweezers": {
+  "heading": "8203",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Shaving, Waxing & Beard Care > Shaving & Hair Removal > Tweezers",
+  "rows": 8
+ },
+ "bathroom accessories & organization > shower curtains": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "polyester",
+     "fabric",
+     "cotton",
+     "cloth"
+    ],
+    "heading": "6303"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Storage & Organisation > Bathroom Accessories & Organization > Shower Curtains",
+  "rows": 8
+ },
+ "treats > cookies, biscuits & snacks": {
+  "heading": "2309",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Pet Supplies > Dogs > Treats > Cookies, Biscuits & Snacks",
+  "rows": 8
+ },
+ "shampoos & conditioners > shampoos": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Pet Supplies > Dogs > Grooming > Shampoos & Conditioners > Shampoos",
+  "rows": 8
+ },
+ "pacifiers & teethers > teethers": {
+  "heading": "4014",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Baby > Pacifiers & Teethers > Teethers",
+  "rows": 8
+ },
+ "beds, bedroom aids & accessories > absorbent pads, shields & guards": {
+  "heading": "4818",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Home Medical Supplies & Equipment > Living & Safety Aids > Beds, Bedroom Aids & Accessories > Absorbent Pads, Shields & Guards",
+  "rows": 8
+ },
+ "apparel & accessories > boots & paw protectors": {
+  "heading": "4201",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Pet Supplies > Dogs > Apparel & Accessories > Boots & Paw Protectors",
+  "rows": 8
+ },
+ "knitting > knitting needles": {
+  "heading": "7319",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Knitting & Crochet > Knitting > Knitting Needles",
+  "rows": 8
+ },
+ "deodorants & antiperspirants > antiperspirant deodorant": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Body > Body & Bath > Deodorants & Antiperspirants > Antiperspirant Deodorant",
+  "rows": 8
+ },
+ "decorative & display containers & vases > decorative boxes": {
+  "heading": "4420",
+  "rules": [
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "3926"
+   },
+   {
+    "words": [
+     "glass"
+    ],
+    "heading": "7013"
+   },
+   {
+    "words": [
+     "metal",
+     "iron",
+     "brass"
+    ],
+    "heading": "8306"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Decorative & Display Containers & Vases > Decorative Boxes",
+  "rows": 8
+ },
+ "scrapbooking > embellishments": {
+  "heading": "9605",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Art & Craft Supplies > Scrapbooking > Embellishments",
+  "rows": 8
+ },
+ "interdental cleaning > power flossers & irrigators": {
+  "heading": "8509",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Oral Care > Interdental Cleaning > Power Flossers & Irrigators",
+  "rows": 8
+ },
+ "omega oils > omega-3": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Vitamins, Minerals & Supplements > Essential Fatty Acids & Oils > Omega Oils > Omega-3",
+  "rows": 8
+ },
+ "hair extensions & wigs > hair extensions": {
+  "heading": "6704",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Extensions & Wigs > Hair Extensions",
+  "rows": 8
+ },
+ "home security systems > motion detectors": {
+  "heading": "8531",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Safety & Security > Home Security Systems > Motion Detectors",
+  "rows": 8
+ },
+ "clothing & wardrobe storage > clothes covers": {
+  "heading": "6307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Storage & Organisation > Clothing & Wardrobe Storage > Clothes Covers",
+  "rows": 8
+ },
+ "bedding & linen > mattresses protectors": {
+  "heading": "6302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bedding & Linen > Mattresses Protectors",
+  "rows": 8
+ },
+ "albums & refills > albums": {
+  "heading": "4820",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Art & Craft Supplies > Scrapbooking > Albums & Refills > Albums",
+  "rows": 8
+ },
+ "birdcage accessories > birdcage covers": {
+  "heading": "4201",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Pet Supplies > Birds > Birdcage Accessories > Birdcage Covers",
+  "rows": 8
+ },
+ "jams, honey & spreads > honey": {
+  "heading": "0409",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Honey",
+  "rows": 8
+ },
+ "aquarium accessories > aquarium lights": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Pet Supplies > Fish & Aquatics > Aquarium Accessories > Aquarium Lights",
+  "rows": 8
+ },
+ "trousers > casual trousers": {
+  "heading": "6203",
+  "rules": [
+   {
+    "words": [
+     "women",
+     "womens",
+     "ladies",
+     "girls"
+    ],
+    "heading": "6204"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Men > Clothing > Trousers > Casual Trousers",
+  "rows": 8
+ },
+ "bags & packs > hiking backpacks & rucksacks": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Outdoor Recreation > Camping & Hiking > Bags & Packs > Hiking Backpacks & Rucksacks",
+  "rows": 8
+ },
+ "pens & refills > retractable ballpoint pens": {
+  "heading": "9608",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > School & Educational Supplies > Pens, Pencils & Writing Supplies > Pens & Refills > Retractable Ballpoint Pens",
+  "rows": 8
+ },
+ "cookware > steamers & idli makers": {
+  "heading": "7323",
+  "rules": [
+   {
+    "words": [
+     "aluminium",
+     "aluminum"
+    ],
+    "heading": "7615"
+   },
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "3924"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Cookware > Steamers & Idli Makers",
+  "rows": 8
+ },
+ "bags & sleeves > hard case shells": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Laptop Accessories > Bags & Sleeves > Hard Case Shells",
+  "rows": 8
+ },
+ "headphones > on-ear": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Headphones, Earbuds & Accessories > Headphones > On-Ear",
+  "rows": 8
+ },
+ "light bulbs > led bulbs": {
+  "heading": "8539",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Industrial Electrical > Lighting Components > Light Bulbs > LED Bulbs",
+  "rows": 8
+ },
+ "braces, splints & supports > hip & waist supports": {
+  "heading": "9021",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Home Medical Supplies & Equipment > Braces, Splints & Supports > Hip & Waist Supports",
+  "rows": 8
+ },
+ "oral care > dental floss": {
+  "heading": "3306",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Oral Care > Dental Floss",
+  "rows": 8
+ },
+ "food > dry": {
+  "heading": "2309",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Pet Supplies > Cats > Food > Dry",
+  "rows": 8
+ },
+ "innerwear > vests": {
+  "heading": "6109",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Fashion > Men > Clothing > Innerwear > Vests",
+  "rows": 8
+ },
+ "artificial flora > artificial plants": {
+  "heading": "6702",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Artificial Flora > Artificial Plants",
+  "rows": 8
+ },
+ "ethnic wear > salwar suits": {
+  "heading": "6204",
+  "rules": [
+   {
+    "words": [
+     "cotton",
+     "knit"
+    ],
+    "heading": "6104"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Ethnic Wear > Salwar Suits",
+  "rows": 8
+ },
+ "small appliance parts & accessories > stand mixer accessories": {
+  "heading": "8509",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Home Appliances > Small Kitchen Appliances > Small Appliance Parts & Accessories > Stand Mixer Accessories",
+  "rows": 8
+ },
+ "household cleaners > disinfectant sprays & liquids": {
+  "heading": "3808",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Household Cleaners > Disinfectant Sprays & Liquids",
+  "rows": 8
+ },
+ "bathroom accessories & organization > bathroom soap dispensers": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   },
+   {
+    "words": [
+     "glass"
+    ],
+    "heading": "7013"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Storage & Organisation > Bathroom Accessories & Organization > Bathroom Soap Dispensers",
+  "rows": 7
+ },
+ "fans & cooling > cpu fans": {
+  "heading": "8414",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Components > Fans & Cooling > CPU Fans",
+  "rows": 7
+ },
+ "chargers > charging stations": {
+  "heading": "8504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Portable Media Players > Accessories > MP3/MP4 Accessories > Chargers > Charging Stations",
+  "rows": 7
+ },
+ "home security systems > alarms": {
+  "heading": "8531",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Safety & Security > Home Security Systems > Alarms",
+  "rows": 7
+ },
+ "household cleaners > floor cleaners": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Household Cleaners > Floor Cleaners",
+  "rows": 7
+ },
+ "refillable containers > pump dispensers": {
+  "heading": "3924",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Beauty Tools & Accessories > Refillable Containers > Pump Dispensers",
+  "rows": 7
+ },
+ "lighting assemblies & components > fog light assemblies": {
+  "heading": "8512",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Car Parts > Lights, Bulbs & Indicators > Lighting Assemblies & Components > Fog Light Assemblies",
+  "rows": 7
+ },
+ "protein supplements > whey proteins": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Sports Supplements > Protein Supplements > Whey Proteins",
+  "rows": 7
+ },
+ "collectible display & storage > coin collecting storage": {
+  "heading": "4820",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Collectible Toys > Collectible Display & Storage > Coin Collecting Storage",
+  "rows": 7
+ },
+ "hand tools > crimpers": {
+  "heading": "8203",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Power & Hand Tools > Hand Tools > Crimpers",
+  "rows": 7
+ },
+ "lanterns > electric lanterns": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Outdoor Recreation > Camping & Hiking > Lights & Lanterns > Lanterns > Electric Lanterns",
+  "rows": 7
+ },
+ "knives > utility knives": {
+  "heading": "8211",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Power & Hand Tools > Hand Tools > Knives > Utility Knives",
+  "rows": 7
+ },
+ "wraps, decals & stickers > decals": {
+  "heading": "3919",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Car Accessories > Exterior Accessories > Wraps, Decals & Stickers > Decals",
+  "rows": 7
+ },
+ "craft materials > beading & jewellery-making": {
+  "heading": "7018",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Beading & Jewellery-Making",
+  "rows": 7
+ },
+ "safes & safe accessories > safe accessories": {
+  "heading": "8301",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Supplies > Money Handling Products > Safes & Safe Accessories > Safe Accessories",
+  "rows": 7
+ },
+ "industrial hardware > spacers": {
+  "heading": "7318",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Industrial Hardware > Spacers",
+  "rows": 7
+ },
+ "ethernet cables > cat 6 cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Industrial Electrical > Wiring & Connecting > Cable Assemblies > Ethernet Cables > Cat 6 Cables",
+  "rows": 7
+ },
+ "cabinet hardware > pulls": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Hardware > Cabinet Hardware > Pulls",
+  "rows": 7
+ },
+ "breastfeeding > nursing covers": {
+  "heading": "6307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Baby > Feeding > Breastfeeding > Nursing Covers",
+  "rows": 7
+ },
+ "scrapbooking > cutting mats": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Art & Craft Supplies > Scrapbooking > Cutting Mats",
+  "rows": 7
+ },
+ "kitchen tools > measuring cups": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Measuring Cups",
+  "rows": 7
+ },
+ "accessories > microphone cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Musical Instruments > Recording & Computer > Microphones > Accessories > Microphone Cables",
+  "rows": 7
+ },
+ "accessories > straps": {
+  "heading": "6307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Exercise & Fitness > Accessories > Straps",
+  "rows": 7
+ },
+ "sleep & snoring > ear plugs": {
+  "heading": "6307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > Sleep & Snoring > Ear Plugs",
+  "rows": 7
+ },
+ "adapters > usb to usb adapters": {
+  "heading": "8536",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Adapters > USB to USB Adapters",
+  "rows": 7
+ },
+ "gym bags > sports duffles": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Exercise & Fitness > Gym Bags > Sports Duffles",
+  "rows": 7
+ },
+ "braces, splints & supports > hand & wrist braces": {
+  "heading": "9021",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Home Medical Supplies & Equipment > Braces, Splints & Supports > Hand & Wrist Braces",
+  "rows": 7
+ },
+ "words, language & grammar > study & teaching": {
+  "heading": "4901",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Books > Textbooks & Study Guides > Reference > Words, Language & Grammar > Study & Teaching",
+  "rows": 7
+ },
+ "accessories > speaker mounts": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > Speaker Mounts",
+  "rows": 7
+ },
+ "feet > foot creams & lotions": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Skin Care > Feet > Foot Creams & Lotions",
+  "rows": 7
+ },
+ "bracelets & kadas > bracelets": {
+  "heading": "7117",
+  "rules": [
+   {
+    "words": [
+     "gold",
+     "silver",
+     "sterling"
+    ],
+    "heading": "7113"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Men > Bracelets & Kadas > Bracelets",
+  "rows": 7
+ },
+ "boxes & organisers > boxes": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Jewellery > Jewellery Accessories > Boxes & Organisers > Boxes",
+  "rows": 7
+ },
+ "desk accessories & storage products > paper weights": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Supplies > Desk Accessories & Storage Products > Paper Weights",
+  "rows": 7
+ },
+ "breastfeeding > breastmilk containers": {
+  "heading": "3924",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Feeding > Breastfeeding > Breastmilk Containers",
+  "rows": 7
+ },
+ "household cleaners > kitchen cleaners": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Household Supplies > Household Cleaners > Kitchen Cleaners",
+  "rows": 7
+ },
+ "accessories > usb hubs": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > USB Hubs",
+  "rows": 7
+ },
+ "robotics > unmanned aerial vehicles (uavs)": {
+  "heading": "8806",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Robotics > Unmanned Aerial Vehicles (UAVs)",
+  "rows": 7
+ },
+ "women > rings": {
+  "heading": "7117",
+  "rules": [
+   {
+    "words": [
+     "gold",
+     "silver",
+     "sterling",
+     "diamond"
+    ],
+    "heading": "7113"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Women > Rings",
+  "rows": 7
+ },
+ "towels > bath towels": {
+  "heading": "6302",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bathroom Linen > Towels > Bath Towels",
+  "rows": 7
+ },
+ "lens accessories > lens hoods": {
+  "heading": "9006",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Lenses > Lens Accessories > Lens Hoods",
+  "rows": 7
+ },
+ "men > golf shoes": {
+  "heading": "6402",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "6403"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Footwear > Men > Golf Shoes",
+  "rows": 7
+ },
+ "vitamins > multivitamins": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Vitamins, Minerals & Supplements > Vitamins > Multivitamins",
+  "rows": 7
+ },
+ "interior fittings > gear shift knobs & covers": {
+  "heading": "8708",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Car Parts > Interior Fittings > Gear Shift Knobs & Covers",
+  "rows": 7
+ },
+ "doll accessories > clothing & accessories sets": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Dolls & Accessories > Doll Accessories > Clothing & Accessories Sets",
+  "rows": 7
+ },
+ "wound care & dressings > adhesive bandages": {
+  "heading": "3005",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Professional Medical Supplies > Wound Care & Dressings > Adhesive Bandages",
+  "rows": 7
+ },
+ "arm & wristband accessories > replacement bands": {
+  "heading": "9113",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Wearable Technology > Arm & Wristband Accessories > Replacement Bands",
+  "rows": 7
+ },
+ "exterior light bulbs > headlights": {
+  "heading": "8539",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Car Parts > Lights, Bulbs & Indicators > Light Bulbs > Exterior Light Bulbs > Headlights",
+  "rows": 7
+ },
+ "toys & games > electronic toys": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Electronic Toys",
+  "rows": 7
+ },
+ "shirts > t-shirts": {
+  "heading": "6109",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Tennis > Clothing > Women > Shirts > T-Shirts",
+  "rows": 7
+ },
+ "protective gear & clothing > gloves": {
+  "heading": "4203",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Motorbike Accessories & Parts > Protective Gear & Clothing > Gloves",
+  "rows": 7
+ },
+ "painting > palettes": {
+  "heading": "9609",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Art & Craft Supplies > Painting > Palettes",
+  "rows": 7
+ },
+ "track & field > footwear": {
+  "heading": "6404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Track & Field > Footwear",
+  "rows": 7
+ },
+ "coaches' & referees' gear > whistles": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Football > Coaches' & Referees' Gear > Whistles",
+  "rows": 7
+ },
+ "scrapbooking > stickers": {
+  "heading": "4911",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Art & Craft Supplies > Scrapbooking > Stickers",
+  "rows": 7
+ },
+ "facial tissues > box tissues": {
+  "heading": "4818",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Janitorial & Sanitation Supplies > Paper Products > Facial Tissues > Box Tissues",
+  "rows": 7
+ },
+ "kitchen tools > spatulas": {
+  "heading": "8215",
+  "rules": [
+   {
+    "words": [
+     "silicone",
+     "plastic"
+    ],
+    "heading": "3924"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Spatulas",
+  "rows": 7
+ },
+ "sleep & lounge wear > pyjama sets": {
+  "heading": "6108",
+  "rules": [
+   {
+    "words": [
+     "men",
+     "mens",
+     "boys"
+    ],
+    "heading": "6107"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Fashion > Women > Clothing > Sleep & Lounge Wear > Pyjama Sets",
+  "rows": 7
+ },
+ "scanners & testers > stud finders": {
+  "heading": "9031",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Power & Hand Tools > Measuring & Layout Tools > Scanners & Testers > Stud Finders",
+  "rows": 7
+ },
+ "skin care > oils": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Baby Care > Skin Care > Oils",
+  "rows": 7
+ },
+ "hot & cold therapies > electric heating pads": {
+  "heading": "8516",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > First Aid > Hot & Cold Therapies > Electric Heating Pads",
+  "rows": 7
+ },
+ "desk supplies, organisers & dispensers > desk supplies organisers": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Supplies > Desk Accessories & Storage Products > Desk Supplies, Organisers & Dispensers > Desk Supplies Organisers",
+  "rows": 7
+ },
+ "pens & refills > ballpoint pens": {
+  "heading": "9608",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > School & Educational Supplies > Pens, Pencils & Writing Supplies > Pens & Refills > Ballpoint Pens",
+  "rows": 7
+ },
+ "waist bags > money waist packs": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Bags & Luggage > Travel Accessories > Travel Kits & Organisers > Waist Bags > Money Waist Packs",
+  "rows": 7
+ },
+ "components > power supplies": {
+  "heading": "8504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Components > Power Supplies",
+  "rows": 7
+ },
+ "home & d\u00e9cor > ashtrays": {
+  "heading": "7323",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Ashtrays",
+  "rows": 7
+ },
+ "skin care > lotions": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Baby Care > Skin Care > Lotions",
+  "rows": 7
+ },
+ "cases & bags > camera cases": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Cases & Bags > Camera Cases",
+  "rows": 7
+ },
+ "waxing > waxing kits": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Shaving, Waxing & Beard Care > Shaving & Hair Removal > Waxing > Waxing Kits",
+  "rows": 7
+ },
+ "shoe care & accessories > shoe care kits": {
+  "heading": "3405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoe Care & Accessories > Shoe Care Kits",
+  "rows": 7
+ },
+ "breath fresheners > tongue cleaners": {
+  "heading": "9615",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Oral Care > Breath Fresheners > Tongue Cleaners",
+  "rows": 7
+ },
+ "potty training & step stools > potty seats & chairs": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Potty Training & Step Stools > Potty Seats & Chairs",
+  "rows": 7
+ },
+ "bathroom linen > bath mats": {
+  "heading": "5703",
+  "rules": [
+   {
+    "words": [
+     "cotton"
+    ],
+    "heading": "6302"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bathroom Linen > Bath Mats",
+  "rows": 7
+ },
+ "ethnic wear > lehenga cholis": {
+  "heading": "6204",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Fashion > Girls > Clothing > Ethnic Wear > Lehenga Cholis",
+  "rows": 7
+ },
+ "seasonal decorations > diyas & lanterns": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Seasonal Decorations > Diyas & Lanterns",
+  "rows": 7
+ },
+ "men > badminton shoes": {
+  "heading": "6404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Footwear > Men > Badminton Shoes",
+  "rows": 7
+ },
+ "home storage hooks > wall hooks": {
+  "heading": "8302",
+  "rules": [
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "3926"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Storage & Organisation > Home Storage Hooks > Wall Hooks",
+  "rows": 6
+ },
+ "kitchen linen > place mats": {
+  "heading": "6302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Tableware > Kitchen Linen > Place Mats",
+  "rows": 6
+ },
+ "cord management > cable ties": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Electrical > Cord Management > Cable Ties",
+  "rows": 6
+ },
+ "test probes & leads > test leads": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Test, Measure & Inspect > Electrical Testing > Test Probes & Leads > Test Leads",
+  "rows": 6
+ },
+ "home & d\u00e9cor > signs & plaques": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Signs & Plaques",
+  "rows": 6
+ },
+ "electronics > books": {
+  "heading": "4901",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Learning & Education > Electronics > Books",
+  "rows": 6
+ },
+ "intimate care & hygiene > pantyliners": {
+  "heading": "9619",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Intimate Care & Hygiene > Pantyliners",
+  "rows": 6
+ },
+ "binders & binder accessories > sheet protectors": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Office Products > Office Supplies > Binders & Binder Accessories > Sheet Protectors",
+  "rows": 6
+ },
+ "disc sports > flying discs": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Disc Sports > Flying Discs",
+  "rows": 6
+ },
+ "refrigerator parts & accessories > refrigerator thermometers": {
+  "heading": "9025",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Large Appliances > Parts & Accessories > Refrigerator Parts & Accessories > Refrigerator Thermometers",
+  "rows": 6
+ },
+ "bathroom aids & safety > dental care aids": {
+  "heading": "9018",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Home Medical Supplies & Equipment > Living & Safety Aids > Bathroom Aids & Safety > Dental Care Aids",
+  "rows": 6
+ },
+ "external devices & data storage > external memory card readers": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > External Devices & Data Storage > External Memory Card Readers",
+  "rows": 6
+ },
+ "art & craft supplies > yarn": {
+  "heading": "5509",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Art & Craft Supplies > Yarn",
+  "rows": 6
+ },
+ "temperature & humidity > temperature probes & sensors": {
+  "heading": "9025",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Test, Measure & Inspect > Temperature & Humidity > Temperature Probes & Sensors",
+  "rows": 6
+ },
+ "webcams & voip equipment > pc headsets": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Webcams & VoIP Equipment > PC Headsets",
+  "rows": 6
+ },
+ "masks & respirators > cartridges & filters": {
+  "heading": "9020",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Occupational Health & Safety Products > Work Safety Equipment & Gear > Masks & Respirators > Cartridges & Filters",
+  "rows": 6
+ },
+ "home fragrance > fragrant room sprays": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Home Fragrance > Fragrant Room Sprays",
+  "rows": 6
+ },
+ "accessories > accessories for kits": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Model Building Kits > Accessories > Accessories for Kits",
+  "rows": 6
+ },
+ "eye care > reading glasses": {
+  "heading": "9004",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > Eye Care > Reading Glasses",
+  "rows": 6
+ },
+ "interior care > dashboard & trim care": {
+  "heading": "3405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Car & Motorbike Care > Interior Care > Dashboard & Trim Care",
+  "rows": 6
+ },
+ "dispensing needles & accessories > dispensing needle accessories": {
+  "heading": "9018",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Lab & Scientific Products > Lab Supplies & Consumables > Lab Utensils > Dispensing Needles & Accessories > Dispensing Needle Accessories",
+  "rows": 6
+ },
+ "mounts > camera mounts": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Mounts > Camera Mounts",
+  "rows": 6
+ },
+ "pillows > neck pillows": {
+  "heading": "9404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bedding & Linen > Pillows > Neck Pillows",
+  "rows": 6
+ },
+ "toy vehicles > trains & train sets": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Toy Vehicles > Trains & Train Sets",
+  "rows": 6
+ },
+ "diagnostic, test & measuring tools > code readers & scan tools": {
+  "heading": "9031",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Vehicle Tools > Diagnostic, Test & Measuring Tools > Code Readers & Scan Tools",
+  "rows": 6
+ },
+ "laptop accessories > screen protectors": {
+  "heading": "3919",
+  "rules": [
+   {
+    "words": [
+     "glass",
+     "tempered"
+    ],
+    "heading": "7007"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Computers & Accessories > Accessories > Laptop Accessories > Screen Protectors",
+  "rows": 6
+ },
+ "braces, splints & supports > foot supports": {
+  "heading": "9021",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Home Medical Supplies & Equipment > Braces, Splints & Supports > Foot Supports",
+  "rows": 6
+ },
+ "ignition & tools > spark plugs": {
+  "heading": "8511",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Car Parts > Ignition & Tools > Spark Plugs",
+  "rows": 6
+ },
+ "fittings > pipe fittings": {
+  "heading": "7307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Hydraulics, Pneumatics & Plumbing > Fittings > Pipe Fittings",
+  "rows": 6
+ },
+ "notebooks, writing pads & diaries > wirebound notebooks": {
+  "heading": "4820",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Office Products > Office Paper Products > Paper > Stationery > Notebooks, Writing Pads & Diaries > Wirebound Notebooks",
+  "rows": 6
+ },
+ "nose rings & pins > nose rings & nath": {
+  "heading": "7117",
+  "rules": [
+   {
+    "words": [
+     "gold",
+     "silver"
+    ],
+    "heading": "7113"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Jewellery > Women > Nose Rings & Pins > Nose Rings & Nath",
+  "rows": 6
+ },
+ "artificial flora > artificial flowers": {
+  "heading": "6702",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Artificial Flora > Artificial Flowers",
+  "rows": 6
+ },
+ "car parts > car styling & body fittings": {
+  "heading": "8708",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Car Parts > Car Styling & Body Fittings",
+  "rows": 6
+ },
+ "calcium > calcium-vitamin d combination": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Vitamins, Minerals & Supplements > Minerals > Calcium > Calcium-Vitamin D Combination",
+  "rows": 6
+ },
+ "kitchen tools > gas lighters": {
+  "heading": "9613",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Gas Lighters",
+  "rows": 6
+ },
+ "styling > hair sprays & mists": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Hair Care > Styling > Hair Sprays & Mists",
+  "rows": 6
+ },
+ "fans > wall-mounted fans": {
+  "heading": "8414",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Home Appliances > Heating, Cooling & Air Quality > Fans > Wall-Mounted Fans",
+  "rows": 6
+ },
+ "photo albums > bookshelf albums": {
+  "heading": "4820",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home & D\u00e9cor > Photo Albums, Frames & Accessories > Photo Albums > Bookshelf Albums",
+  "rows": 6
+ },
+ "backpack accessories > bag organisers": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Outdoor Recreation > Camping & Hiking > Backpack Accessories > Bag Organisers",
+  "rows": 6
+ },
+ "alternative medicine > light therapy": {
+  "heading": "9018",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > Alternative Medicine > Light Therapy",
+  "rows": 6
+ },
+ "hand tools > shears & scissors": {
+  "heading": "8213",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Power & Hand Tools > Hand Tools > Shears & Scissors",
+  "rows": 6
+ },
+ "work & safety shoes > military & tactical": {
+  "heading": "6403",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Occupational Health & Safety Products > Work Safety Equipment & Gear > Work & Safety Shoes > Military & Tactical",
+  "rows": 6
+ },
+ "baking tools & accessories > candy making supplies": {
+  "heading": "8215",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Baking Tools & Accessories > Candy Making Supplies",
+  "rows": 6
+ },
+ "beading & jewellery-making > beading cords & threads": {
+  "heading": "5607",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Beading & Jewellery-Making > Beading Cords & Threads",
+  "rows": 6
+ },
+ "hair accessories > bands": {
+  "heading": "6217",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Jewellery > Women > Hair Accessories > Bands",
+  "rows": 6
+ },
+ "trim & embellishments > iron-on transfers": {
+  "heading": "5810",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Sewing > Trim & Embellishments > Iron-On Transfers",
+  "rows": 6
+ },
+ "computers & accessories > tablets": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Computers & Accessories > Tablets",
+  "rows": 47
+ },
+ "epilators & accessories > epilators": {
+  "heading": "8510",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Shaving, Waxing & Beard Care > Shaving & Hair Removal > Epilators & Accessories > Epilators",
+  "rows": 38
+ },
+ "bags,cases & sleeves > cases": {
+  "heading": "3926",
+  "rules": [
+   {
+    "words": [
+     "leather",
+     "pu leather",
+     "faux leather"
+    ],
+    "heading": "4202"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > Tablet Accessories > Bags,Cases & Sleeves > Cases",
+  "rows": 29
+ },
+ "cables > usb cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > Cables & Accessories > Cables > USB Cables",
+  "rows": 20
+ },
+ "sports & outdoor shoes > running shoes": {
+  "heading": "6404",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "6403"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Men's Shoes > Sports & Outdoor Shoes > Running Shoes",
+  "rows": 18
+ },
+ "nails, screws & fasteners > brackets": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home Improvement > Hardware > Nails, Screws & Fasteners > Brackets",
+  "rows": 17
+ },
+ "cleaning supplies > feather dusters": {
+  "heading": "9603",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Cleaning Supplies > Feather Dusters",
+  "rows": 17
+ },
+ "measuring & layout tools > scanners & testers": {
+  "heading": "9031",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home Improvement > Power & Hand Tools > Measuring & Layout Tools > Scanners & Testers",
+  "rows": 15
+ },
+ "tv mounts, stands & turntables > tv wall & ceiling mounts": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > TV Mounts, Stands & Turntables > TV Wall & Ceiling Mounts",
+  "rows": 14
+ },
+ "scrapbooking > art glues": {
+  "heading": "3506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Scrapbooking > Art Glues",
+  "rows": 12
+ },
+ "threaded inserts > helical threaded inserts": {
+  "heading": "7318",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Fasteners > Threaded Inserts > Helical Threaded Inserts",
+  "rows": 12
+ },
+ "cutlery > spoons": {
+  "heading": "8215",
+  "rules": [
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "3924"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Feeding > Tableware > Cutlery > Spoons",
+  "rows": 11
+ },
+ "adhesives & removers > adhesive sheets": {
+  "heading": "3919",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Adhesives & Removers > Adhesive Sheets",
+  "rows": 11
+ },
+ "headphones, earbuds & accessories > adapters": {
+  "heading": "8536",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Headphones, Earbuds & Accessories > Adapters",
+  "rows": 11
+ },
+ "lighting fixtures > outdoor lighting": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home Improvement > Lighting Fixtures > Outdoor Lighting",
+  "rows": 11
+ },
+ "cleaning tools > scrubbers": {
+  "heading": "9603",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home Improvement > Power & Hand Tools > Cleaning Tools > Scrubbers",
+  "rows": 10
+ },
+ "accessories & peripherals > laptop accessories": {
+  "heading": "8473",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > Laptop Accessories",
+  "rows": 10
+ },
+ "diving & snorkeling > masks": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Water Sports > Diving & Snorkeling > Masks",
+  "rows": 10
+ },
+ "dental care > toothpaste": {
+  "heading": "3306",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Pet Supplies > Dogs > Health Supplies > Dental Care > Toothpaste",
+  "rows": 10
+ },
+ "mobile accessories > single ear bluetooth headsets": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Single Ear Bluetooth Headsets",
+  "rows": 9
+ },
+ "breastfeeding > breast pumps": {
+  "heading": "9018",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Baby > Feeding > Breastfeeding > Breast Pumps",
+  "rows": 9
+ },
+ "hooks > over door hooks": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home Improvement > Hardware > Hooks > Over Door Hooks",
+  "rows": 9
+ },
+ "dress-up accessories > masks": {
+  "heading": "9505",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Dress Up & Pretend Play > Dress-Up Accessories > Masks",
+  "rows": 9
+ },
+ "cleaning > disc cleaning": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > Cleaning > Disc Cleaning",
+  "rows": 9
+ },
+ "millwork > mouldings": {
+  "heading": "4409",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home Improvement > Building Supplies > Building Materials > Millwork > Mouldings",
+  "rows": 9
+ },
+ "lights & lanterns > headlamps": {
+  "heading": "8513",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Outdoor Recreation > Camping & Hiking > Lights & Lanterns > Headlamps",
+  "rows": 9
+ },
+ "nails, screws & fasteners > spacers": {
+  "heading": "7318",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home Improvement > Hardware > Nails, Screws & Fasteners > Spacers",
+  "rows": 9
+ },
+ "accessories & peripherals > tablet accessories": {
+  "heading": "8473",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > Tablet Accessories",
+  "rows": 9
+ },
+ "denture care > cleansers": {
+  "heading": "3306",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Oral Care > Denture Care > Cleansers",
+  "rows": 9
+ },
+ "speaker accessories > mounts": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Home Audio > Accessories > Speaker Accessories > Mounts",
+  "rows": 8
+ },
+ "filters > filter sets": {
+  "heading": "9002",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Accessories > Filters > Filter Sets",
+  "rows": 8
+ },
+ "speaker accessories > isolation pads": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Home Audio > Accessories > Speaker Accessories > Isolation Pads",
+  "rows": 8
+ },
+ "die-cutting > replacement blades": {
+  "heading": "8208",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Scrapbooking > Die-Cutting > Replacement Blades",
+  "rows": 8
+ },
+ "greenhouses & plant germination equipment > growing lamps": {
+  "heading": "9405",
+  "rules": [
+   {
+    "words": [
+     "bulb"
+    ],
+    "heading": "8539"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Outdoor Living > Gardening > Greenhouses & Plant Germination Equipment > Growing Lamps",
+  "rows": 8
+ },
+ "craft materials > gift wrapping supplies": {
+  "heading": "4823",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Gift Wrapping Supplies",
+  "rows": 8
+ },
+ "men > jeans": {
+  "heading": "6203",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Clothing & Accessories > Men > Jeans",
+  "rows": 8
+ },
+ "baby & toddler toys > spinning & battling tops": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Baby & Toddler Toys > Spinning & Battling Tops",
+  "rows": 8
+ },
+ "toys & games > sport & outdoor": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Sport & Outdoor",
+  "rows": 7
+ },
+ "cables > stereo jack cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Audio > Accessories > Cables > Stereo Jack Cables",
+  "rows": 7
+ },
+ "insulated drinks containers > tumblers": {
+  "heading": "9617",
+  "rules": [
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "3924"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Thermos & Vacuum Flasks > Insulated Drinks Containers > Tumblers",
+  "rows": 7
+ },
+ "bath & body > body scrubs": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Beauty > Bath & Body > Body Scrubs",
+  "rows": 7
+ },
+ "baking tools & accessories > cookie cutters": {
+  "heading": "7323",
+  "rules": [
+   {
+    "words": [
+     "plastic",
+     "silicone"
+    ],
+    "heading": "3924"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Baking Tools & Accessories > Cookie Cutters",
+  "rows": 7
+ },
+ "bags & backpacks > messenger & sling bags": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Bags, Wallets and Luggage > Bags & Backpacks > Messenger & Sling Bags",
+  "rows": 7
+ },
+ "banners, stickers & confetti > streamers": {
+  "heading": "9505",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Party Supplies > Decorations > Banners, Stickers & Confetti > Streamers",
+  "rows": 7
+ },
+ "additive manufacturing products > 3d printer parts & accessories": {
+  "heading": "8485",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Additive Manufacturing Products > 3D Printer Parts & Accessories",
+  "rows": 7
+ },
+ "memory cards > micro sd": {
+  "heading": "8523",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Accessories > Memory Cards > Micro SD",
+  "rows": 7
+ },
+ "craft materials > painting materials": {
+  "heading": "3213",
+  "rules": [
+   {
+    "words": [
+     "brush"
+    ],
+    "heading": "9603"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Painting Materials",
+  "rows": 7
+ },
+ "ceramics & pottery > clay": {
+  "heading": "3407",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Ceramics & Pottery > Clay",
+  "rows": 7
+ },
+ "clothes hangers > standard hangers": {
+  "heading": "3926",
+  "rules": [
+   {
+    "words": [
+     "wooden",
+     "wood"
+    ],
+    "heading": "4421"
+   },
+   {
+    "words": [
+     "metal",
+     "steel",
+     "iron"
+    ],
+    "heading": "7326"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Storage & Organisation > Clothing & Wardrobe Storage > Clothes Hangers > Standard Hangers",
+  "rows": 7
+ },
+ "sports & outdoor shoes > golf shoes": {
+  "heading": "6404",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "6403"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Women's Shoes > Sports & Outdoor Shoes > Golf Shoes",
+  "rows": 6
+ },
+ "kitchen fixtures > kitchen sink aerators": {
+  "heading": "8481",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Kitchen & Bath Fixtures > Kitchen Fixtures > Kitchen Sink Aerators",
+  "rows": 6
+ },
+ "bikinis > bottoms": {
+  "heading": "6112",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Clothing & Accessories > Women > Swim & Beachwear > Bikinis > Bottoms",
+  "rows": 6
+ },
+ "door hardware & locks > door closers": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Hardware > Door Hardware & Locks > Door Closers",
+  "rows": 6
+ },
+ "caulk > adhesive caulk": {
+  "heading": "3214",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Tapes, Adhesives & Sealers > Caulk > Adhesive Caulk",
+  "rows": 6
+ },
+ "hydration > canteens & water bottles": {
+  "heading": "3924",
+  "rules": [
+   {
+    "words": [
+     "stainless",
+     "steel"
+    ],
+    "heading": "7323"
+   },
+   {
+    "words": [
+     "glass"
+    ],
+    "heading": "7013"
+   },
+   {
+    "words": [
+     "vacuum",
+     "insulated"
+    ],
+    "heading": "9617"
+   }
+  ],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Outdoor Recreation > Camping & Hiking > Hydration > Canteens & Water Bottles",
+  "rows": 6
+ },
+ "chargers > induction chargers": {
+  "heading": "8504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Chargers > Induction Chargers",
+  "rows": 6
+ },
+ "hair accessories > tiaras": {
+  "heading": "9615",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Jewellery > Women > Hair Accessories > Tiaras",
+  "rows": 6
+ },
+ "controllers > steering wheels": {
+  "heading": "9504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Video Games > PC Games > Accessories > Controllers > Steering Wheels",
+  "rows": 6
+ },
+ "combat sports & self-defence > martial arts": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Books > Sports > Combat Sports & Self-Defence > Martial Arts",
+  "rows": 6
+ },
+ "tableware > sets": {
+  "heading": "3924",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Baby > Feeding > Tableware > Sets",
+  "rows": 6
+ },
+ "respirators > disposable respirators": {
+  "heading": "6307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Occupational Health & Safety Products > Work Safety Equipment & Gear > Masks & Respirators > Respirators > Disposable Respirators",
+  "rows": 6
+ },
+ "accessories > headsets": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Telephones & Accessories > Accessories > Headsets",
+  "rows": 6
+ },
+ "potty training & step stools > wet wipes": {
+  "heading": "3401",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Baby > Potty Training & Step Stools > Wet Wipes",
+  "rows": 6
+ },
+ "fans > personal fans": {
+  "heading": "8414",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Heating, Cooling & Air Quality > Fans > Personal Fans",
+  "rows": 6
+ },
+ "security cameras > dome cameras": {
+  "heading": "8525",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Security Cameras > Dome Cameras",
+  "rows": 6
+ },
+ "shoe treatments & polishes > shoe polishes": {
+  "heading": "3405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Shoes & Handbags > Shoe Care & Accessories > Shoe Treatments & Polishes > Shoe Polishes",
+  "rows": 5
+ },
+ "craft kits > jewelry making & beadwork": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Arts & Crafts > Craft Kits > Jewelry Making & Beadwork",
+  "rows": 5
+ },
+ "computers & accessories > monitors": {
+  "heading": "8528",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Computers & Accessories > Monitors",
+  "rows": 5
+ },
+ "bandages & bandaging supplies > elastic bandages": {
+  "heading": "3005",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > First Aid > Bandages & Bandaging Supplies > Elastic Bandages",
+  "rows": 5
+ },
+ "balance trainers > stability balls": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Exercise & Fitness > Balance Trainers > Stability Balls",
+  "rows": 5
+ },
+ "racquets > shake hands grips": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Table Tennis > Racquets > Shake Hands Grips",
+  "rows": 5
+ },
+ "protective & decorative strips > door protection": {
+  "heading": "8708",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Car Parts > Car Styling & Body Fittings > Protective & Decorative Strips > Door Protection",
+  "rows": 5
+ },
+ "painting materials > paintbrush sets": {
+  "heading": "9603",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Painting Materials > Paintbrush Sets",
+  "rows": 5
+ },
+ "eye protection > safety glasses": {
+  "heading": "9004",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Occupational Health & Safety Products > Work Safety Equipment & Gear > Eye Protection > Safety Glasses",
+  "rows": 5
+ },
+ "sunglasses & spectacle frames > eyewear frames": {
+  "heading": "9003",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Clothing & Accessories > Men > Sunglasses & Spectacle Frames > Eyewear Frames",
+  "rows": 5
+ },
+ "personal care > hygiene & sanitation": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Outdoor Recreation > Camping & Hiking > Personal Care > Hygiene & Sanitation",
+  "rows": 5
+ },
+ "baby safety > safety harnesses": {
+  "heading": "6307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Baby > Baby Safety > Safety Harnesses",
+  "rows": 5
+ },
+ "gaming accessories > controllers": {
+  "heading": "9504",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Gaming Accessories > Controllers",
+  "rows": 5
+ },
+ "dry > freeze-dried": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Pet Supplies > Cats > Food > Dry > Freeze-Dried",
+  "rows": 5
+ },
+ "3d printer parts & accessories > 3d printer platforms": {
+  "heading": "8485",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Additive Manufacturing Products > 3D Printer Parts & Accessories > 3D Printer Platforms",
+  "rows": 5
+ },
+ "accessories > cycle mirrors": {
+  "heading": "8714",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Cycling > Accessories > Cycle Mirrors",
+  "rows": 5
+ },
+ "model building kits > figures": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Model Building Kits > Figures",
+  "rows": 5
+ },
+ "usb gadgets > lamps": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > USB Gadgets > Lamps",
+  "rows": 5
+ },
+ "mobile accessories > signal boosters": {
+  "heading": "8517",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Signal Boosters",
+  "rows": 5
+ },
+ "keyboard & mice accessories > mouse pads": {
+  "heading": "3926",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > Keyboards, Mice & Input Devices > Keyboard & Mice Accessories > Mouse Pads",
+  "rows": 5
+ },
+ "cables > optical cables": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > Cables > Optical Cables",
+  "rows": 5
+ },
+ "video cameras accessories > on-camera video lights": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Accessories > Video Cameras Accessories > On-Camera Video Lights",
+  "rows": 5
+ },
+ "security cameras > bullet cameras": {
+  "heading": "8525",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Security Cameras > Bullet Cameras",
+  "rows": 5
+ },
+ "car & motorbike care > cleaning kits": {
+  "heading": "3402",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Car & Motorbike Care > Cleaning Kits",
+  "rows": 5
+ },
+ "knives & tools > fixed-blade knives": {
+  "heading": "8211",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Outdoor Recreation > Camping & Hiking > Knives & Tools > Fixed-Blade Knives",
+  "rows": 5
+ },
+ "face > compact powder": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Make-up > Face > Compact Powder",
+  "rows": 5
+ },
+ "pc gaming peripherals > gaming mice": {
+  "heading": "8471",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > PC Gaming Peripherals > Gaming Mice",
+  "rows": 4
+ },
+ "puzzles > brain teasers": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Puzzles > Brain Teasers",
+  "rows": 4
+ },
+ "eye care > computer bluelight blocking glasses": {
+  "heading": "9004",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > Eye Care > Computer Bluelight Blocking Glasses",
+  "rows": 4
+ },
+ "accessories > exercise equipment mats": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Exercise & Fitness > Accessories > Exercise Equipment Mats",
+  "rows": 4
+ },
+ "stirrers, mixers & accessories > stirrers": {
+  "heading": "8479",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Lab & Scientific Products > Lab Instruments & Equipment > Mixing & Blending Equipment > Stirrers, Mixers & Accessories > Stirrers",
+  "rows": 4
+ },
+ "roof racks & boxes > bicycle mountings": {
+  "heading": "8714",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Towing & Transporting > Roof Racks & Boxes > Bicycle Mountings",
+  "rows": 4
+ },
+ "gloves & arm warmers > cold weather gloves": {
+  "heading": "6116",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "4203"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Clothing & Accessories > Women > Accessories > Gloves & Arm Warmers > Cold Weather Gloves",
+  "rows": 4
+ },
+ "pillows > standard pillows": {
+  "heading": "9404",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Bedding & Linen > Pillows > Standard Pillows",
+  "rows": 4
+ },
+ "novelty & gag toys > slime & putty toys": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Novelty & Gag Toys > Slime & Putty Toys",
+  "rows": 4
+ },
+ "shaving, waxing & beard care > post-treatments": {
+  "heading": "3307",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Shaving, Waxing & Beard Care > Post-Treatments",
+  "rows": 4
+ },
+ "backpacks > casual backpacks": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Bags, Wallets and Luggage > Bags & Backpacks > Backpacks > Casual Backpacks",
+  "rows": 4
+ },
+ "bags & sleeves > laptop messenger & shoulder bags": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > Laptop Accessories > Bags & Sleeves > Laptop Messenger & Shoulder Bags",
+  "rows": 4
+ },
+ "car styling & body fittings > exterior door handles": {
+  "heading": "8708",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Car Parts > Car Styling & Body Fittings > Exterior Door Handles",
+  "rows": 4
+ },
+ "caps & hats > skullies & beanies": {
+  "heading": "6505",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Clothing & Accessories > Men > Accessories > Caps & Hats > Skullies & Beanies",
+  "rows": 4
+ },
+ "exterior accessories > tyre inflators": {
+  "heading": "8414",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Car & Motorbike > Car Accessories > Exterior Accessories > Tyre Inflators",
+  "rows": 4
+ },
+ "sport & outdoor > yo-yos": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Sport & Outdoor > Yo-Yos",
+  "rows": 4
+ },
+ "craft kits > wood": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Toys & Games > Arts & Crafts > Craft Kits > Wood",
+  "rows": 4
+ },
+ "accessories > rods & rails": {
+  "heading": "8302",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Home Furnishing > Curtains & Accessories > Accessories > Rods & Rails",
+  "rows": 4
+ },
+ "lab consumables > lab swabs": {
+  "heading": "3005",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Lab & Scientific Products > Lab Supplies & Consumables > Lab Consumables > Lab Swabs",
+  "rows": 4
+ },
+ "painting materials > paints": {
+  "heading": "3213",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Painting Materials > Paints",
+  "rows": 4
+ },
+ "nail tools > nail files & buffers": {
+  "heading": "8214",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Beauty > Manicure & Pedicure > Nail Tools > Nail Files & Buffers",
+  "rows": 4
+ },
+ "electrical > electrical wire": {
+  "heading": "8544",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Home Improvement > Electrical > Electrical Wire",
+  "rows": 4
+ },
+ "artwork > tapestries": {
+  "heading": "6307",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Artwork > Tapestries",
+  "rows": 4
+ },
+ "protective gear > knee pads": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Volleyball > Protective Gear > Knee Pads",
+  "rows": 4
+ },
+ "accessories > video camera, camera & binocular straps": {
+  "heading": "9006",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Cameras & Photography > Accessories > Video Camera, Camera & Binocular Straps",
+  "rows": 4
+ },
+ "arts & crafts > clay & dough": {
+  "heading": "3407",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Arts & Crafts > Clay & Dough",
+  "rows": 4
+ },
+ "sports & outdoor shoes > training shoes": {
+  "heading": "6404",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "6403"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Men's Shoes > Sports & Outdoor Shoes > Training Shoes",
+  "rows": 4
+ },
+ "caulk > silicone caulk": {
+  "heading": "3214",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Industrial & Scientific > Tapes, Adhesives & Sealers > Caulk > Silicone Caulk",
+  "rows": 4
+ },
+ "topical treatments > flea sprays": {
+  "heading": "3808",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Pet Supplies > Dogs > Flea & Tick Control > Topical Treatments > Flea Sprays",
+  "rows": 4
+ },
+ "lighting > nursery night lights": {
+  "heading": "9405",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Baby > Nursery > Baby Room D\u00e9cor > Lighting > Nursery Night Lights",
+  "rows": 4
+ },
+ "bag accessories > bag organisers": {
+  "heading": "4202",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Bags, Wallets and Luggage > Bags & Backpacks > Bag Accessories > Bag Organisers",
+  "rows": 4
+ },
+ "antioxidants > coenzyme q10": {
+  "heading": "2106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Diet & Nutrition > Vitamins, Minerals & Supplements > Antioxidants > Coenzyme Q10",
+  "rows": 4
+ },
+ "weighing scales > digital bathroom scales": {
+  "heading": "8423",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Home Medical Supplies & Equipment > Health Monitors > Weighing Scales > Digital Bathroom Scales",
+  "rows": 4
+ },
+ "accessories > video converters": {
+  "heading": "8543",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > Home Theater, TV & Video > Accessories > Video Converters",
+  "rows": 4
+ },
+ "car audio > car stereos": {
+  "heading": "8527",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Car & Vehicle Electronics > Car Electronics > Car Audio > Car Stereos",
+  "rows": 4
+ },
+ "massage creams, oils & scrubs > oils": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Health & Personal Care > Health Care > Massage & Relaxation > Massage Creams, Oils & Scrubs > Oils",
+  "rows": 4
+ },
+ "receivers & separates > amplifiers": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Home Audio > Receivers & Separates > Amplifiers",
+  "rows": 4
+ },
+ "visual arts > drawing": {
+  "heading": "4901",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Books > Higher Education Textbooks > Humanities > Visual Arts > Drawing",
+  "rows": 4
+ },
+ "displayware > display stands": {
+  "heading": "9403",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Industrial & Scientific > Food Service Equipment & Supplies > Displayware & Signage > Displayware > Display Stands",
+  "rows": 4
+ },
+ "general purpose batteries & battery chargers > rechargeable batteries": {
+  "heading": "8507",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > General Purpose Batteries & Battery Chargers > Rechargeable Batteries",
+  "rows": 4
+ },
+ "microphones > condenser": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Musical Instruments > Microphones > Condenser",
+  "rows": 4
+ },
+ "early development & activity toys > activity cubes": {
+  "heading": "9503",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Toys & Games > Baby & Toddler Toys > Early Development & Activity Toys > Activity Cubes",
+  "rows": 4
+ },
+ "beading & jewellery-making > jewellery-making kits": {
+  "heading": "7117",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Beading & Jewellery-Making > Jewellery-Making Kits",
+  "rows": 4
+ },
+ "audio & video accessories > pc speakers": {
+  "heading": "8518",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > Audio & Video Accessories > PC Speakers",
+  "rows": 4
+ },
+ "sports & outdoor shoes > walking shoes": {
+  "heading": "6404",
+  "rules": [
+   {
+    "words": [
+     "leather"
+    ],
+    "heading": "6403"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Shoes & Handbags > Shoes > Women's Shoes > Sports & Outdoor Shoes > Walking Shoes",
+  "rows": 4
+ },
+ "ebook readers & accessories > covers": {
+  "heading": "4202",
+  "rules": [
+   {
+    "words": [
+     "plastic"
+    ],
+    "heading": "3926"
+   }
+  ],
+  "uncertain": true,
+  "note": "",
+  "example": "Electronics > eBook Readers & Accessories > Covers",
+  "rows": 4
+ },
+ "fans & cooling > case fans": {
+  "heading": "8414",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Computers & Accessories > Components > Fans & Cooling > Case Fans",
+  "rows": 4
+ },
+ "hair color > developers": {
+  "heading": "3305",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Beauty > Hair Care > Hair Color > Developers",
+  "rows": 4
+ },
+ "general purpose batteries & battery chargers > disposable batteries": {
+  "heading": "8506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > General Purpose Batteries & Battery Chargers > Disposable Batteries",
+  "rows": 4
+ },
+ "interior care > plastic & rubber care": {
+  "heading": "3405",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Car & Motorbike > Car & Motorbike Care > Interior Care > Plastic & Rubber Care",
+  "rows": 4
+ },
+ "kayaking > kayak accessories": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Water Sports > Kayaking > Kayak Accessories",
+  "rows": 4
+ },
+ "general music-making accessories > practice aids": {
+  "heading": "9209",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Musical Instruments > General Music-Making Accessories > Practice Aids",
+  "rows": 4
+ },
+ "chargers > power banks": {
+  "heading": "8507",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Electronics > Mobiles & Accessories > Mobile Accessories > Chargers > Power Banks",
+  "rows": 4
+ },
+ "kitchen tools > kitchen timers": {
+  "heading": "9106",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Kitchen & Dining > Kitchen Tools > Kitchen Timers",
+  "rows": 4
+ },
+ "fabric painting & dyeing > dyes": {
+  "heading": "3204",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Home & Kitchen > Craft Materials > Fabric Painting & Dyeing > Dyes",
+  "rows": 3
+ },
+ "foot care > foot creams & lotions": {
+  "heading": "3304",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Health & Personal Care > Personal Care > Foot Care > Foot Creams & Lotions",
+  "rows": 3
+ },
+ "gymnastics > hand grips": {
+  "heading": "9506",
+  "rules": [],
+  "uncertain": false,
+  "note": "",
+  "example": "Sports, Fitness & Outdoors > Gymnastics > Hand Grips",
+  "rows": 3
+ },
+ "laptop accessories > replacement screens": {
+  "heading": "8524",
+  "rules": [],
+  "uncertain": true,
+  "note": "",
+  "example": "Computers & Accessories > Accessories & Peripherals > Laptop Accessories > Replacement Screens",
+  "rows": 3
+ }
+}
